@@ -22,18 +22,15 @@
   <link type="application/atom+xml" rel="alternate" href="http://0.0.0.0:4000/feed.xml" title="Wayone Help" />
   <script src="/assets/javascript/bootstrap/jquery.min.js"></script>
   <script src="/assets/javascript/bootstrap/bootstrap.bundle.min.js"></script>
-  <script type="text/javascript">
-    $(document).ready(function () {
-      $("#sidebar").mCustomScrollbar({
-        theme: "minimal"
-      });
-
-      $('#sidebarCollapse').on('click', function () {
-        $('#sidebar, #content').toggleClass('active');
-        $('.collapse.in').toggleClass('in');
-        $('a[aria-expanded=true]').attr('aria-expanded', 'false');
-      });
-    });
+  <script>
+    toggleMenu = () => {
+      let sidebar = document.getElementById('sidebar')
+      let content = document.getElementById('content')
+      if(sidebar && content) {
+        sidebar.classList.toggle("active");
+        content.classList.toggle("active");
+      }
+    }
   </script>
 </head>
 
@@ -98,8 +95,7 @@
     <div id="content">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <button type="button" id="sidebarCollapse" class="btn btn-info">
-            <i class="fas fa-align-left"></i>
+          <button type="button" id="sidebarCollapse" class="btn btn-info" onclick="toggleMenu()">
             <span>Toggle Sidebar</span>
           </button>
           <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse"
