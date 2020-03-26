@@ -1,22 +1,119 @@
 <div style="font-size: 14px;">
   <form role="search" class="search d-flex align-items-center">
     <input type="search" class="form-control ds-input" id="search-input" placeholder="Pesquise..." autocomplete="off" spellcheck="false" />
-
-    <button class="btn btn-link d-none p-0 ml-3" type="button" data-toggle="collapse" data-target="#menu-entries" aria-controls="menu-entries">
-      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" role="img" focusable="false">
-        <path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path>
-      </svg>
-    </button>
   </form>
 
-  <div class="sidebar-contents">
-    {% for item in site.data.sitemap.menu %}
-    <h6>{{ item.title }}</h6>
-    <ul style="list-style: none; padding-left: 8px;">
-        {% for entry in item.subfolderitems %}
-        <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-        {% endfor %}
-    </ul>
-    {% endfor %}
-  </div>
+  <div class="sidebar-contents"></div>
 </div>
+
+<script type="text/javascript">
+    let allMenus = [];
+    {% for item in site.data.sitemap.menu %}
+      {% for entry in item.children %}
+        allMenus.push({
+            title: `{{ item["title"] }}`,
+            page: `{{ entry["page"] }}`,
+            url: `{{ entry["url"] }}`
+        })
+      {% endfor %}
+    {% endfor %}
+
+    let renderMenus = function(menuList, searchString="") {
+      let mainDiv = document.getElementsByClassName("sidebar-contents")[0]
+
+      if (menuList.length > 0) {
+        let mapMenu = []
+
+        for (let i = 0; i < menuList.length; i++) {
+          let menu = menuList[i]
+          if (!mapMenu[menu.title]) {
+            mapMenu[menu.title] = []
+          }
+          mapMenu[menu.title].push(menu)
+        }
+
+        for (let menu in mapMenu) {
+            let menuDiv = document.createElement('div')
+
+            let groupDiv = document.createElement('h6')
+            groupDiv.innerHTML = menu
+            menuDiv.appendChild(groupDiv)
+
+            let childrenUl = document.createElement('ul')
+            childrenUl.className = "side-menu-group"
+
+            for (let item of mapMenu[menu]) {
+              let itemLi = document.createElement('li'),
+                itemAnchor = document.createElement('a')
+              itemAnchor.innerHTML = item.page
+              itemAnchor.href = item.url
+
+              itemLi.appendChild(itemAnchor)
+              childrenUl.appendChild(itemLi)
+            }               
+            menuDiv.appendChild(childrenUl)
+            mainDiv.appendChild(menuDiv)
+        }
+      } else {
+        let noResultDiv = document.createElement('div')
+        noResultDiv.className = 'no-results'
+
+        let noResultPara = document.createElement('p')
+        noResultPara.innerHTML = 'Sem resultados para ' + '<b>' + searchString + '</b>'
+        noResultDiv.appendChild(noResultPara)
+
+        mainDiv.appendChild(noResultDiv)
+      }
+    }
+
+    let searchResult = allMenus
+    document.addEventListener('DOMContentLoaded', function(event) {
+      renderMenus(allMenus)
+    })
+
+    function findMatches(query, list) {
+      if (query === '') {
+        return list
+      }
+      let options = {
+        findAllMatches: true,
+        threshold: 0.2,
+        location: 0,
+        distance: 50,
+        maxPatternLength: 50,
+        minMatchCharLength: 1,
+        keys: [ 'page' ]
+      }
+      let fuse = new Fuse(list, options),
+        result = fuse.search(query)
+      return result
+    }
+
+    let searchInput = document.getElementById('search-input'),
+      searchClear = document.getElementById('search-clear')
+
+    searchInput.addEventListener('click', function(event) {
+      searchInput.value = ''
+      let mainDiv = document.getElementsByClassName('sidebar-contents')[0]
+      while (mainDiv.firstChild) {
+        mainDiv.removeChild(mainDiv.firstChild)
+      }
+      renderMenus(allMenus)
+    })
+
+    document.addEventListener('keyup', function(event) {
+      let newMenuList = []
+      let searchString = searchInput.value.trim()
+      searchResult = findMatches(searchString, allMenus)
+
+      let mainDiv = document.getElementsByClassName('sidebar-contents')[0]
+      while (mainDiv.firstChild) {
+        mainDiv.removeChild(mainDiv.firstChild)
+      }
+
+      for (let item of searchResult) {
+        newMenuList.push(item)
+      }
+      renderMenus(newMenuList, searchString=searchInput.value)
+  })
+</script>
