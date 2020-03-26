@@ -21,13 +21,13 @@ menu:
       - page: Como utilizar os filtros
         url: /pages/dashboard/filtro-agendas
       - page: Como atender pelos agendamentos
-        url: /pages/dashboard/fila-espera
+        url: /pages/dashboard/atender-pelos-agendamentos
       - page: Como trocar de clínica
         url: /pages/dashboard/fila-espera
       - page: Como alterar dados do meu usuário
         url: /pages/dashboard/fila-espera
       - page: Como alterar o idioma
-        url: /pages/dashboard/fila-espera
+        url: /pages/dashboard/alterar-idioma
       - page: Como acessar um atendimento que já foi iniciado
         url: /pages/dashboard/fila-espera
       - page: Como iniciar um atendimento (mesma página da agenda)
