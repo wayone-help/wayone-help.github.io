@@ -14,13 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Wayone Help
-email: ""
-description: >- # this means to ignore newlines until "baseurl:"
-  Tutoriais de uso do Wayone
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+
+menu:
+  - title: Dashboard
+    subfolderitems:
+      - page: Filtro de Agendas
+        url: /pages/dashboard/filtro-agendas
+      - page: Fila de Espera
+        url: /pages/dashboard/fila-espera
+  - title: Cadastro de Clínica
+    subfolderitems:
+      - page: Alterando cor
+        url: /pages/cadastro-clinica/alterando-cor
+
 
 repository: "nicolas-van/bootstrap-4-github-pages"
 
