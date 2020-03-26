@@ -66,7 +66,58 @@ menu:
         url: /pages/cadastro-clinica/alterando-cor
       - page: Como iniciar um atendimento (explicar a diferença para cada fluxo, além disso explicar sobre o CPF, data de nascimento e endereço obrigatório para iniciar)
         url: /pages/cadastro-clinica/alterando-cor
-
+  - title: Atendimento
+    subfolderitems:
+      - page: Qual a diferença entre um atendimento da agenda clínica e da operacional?
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como fazer uma atendimento clínico
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como fazer uma atendimento operacional
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Abas do atendimento
+        url: /pages/cadastro-clinica/alterando-cor
+  - title: Prontuário
+    subfolderitems:
+      - page: O que é um prontuário?
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como pesquisar por um prontuário (explicar busca, paginação, e como limpar a busca)
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como acessar um prontuário
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como adicionar um comentário no prontuário
+        url: /pages/cadastro-clinica/alterando-cor
+  - title: Gestão de Anamnese
+    subfolderitems:
+      - page: O que é uma anamnese?
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como pesquisar por uma anamnese (explicar busca, paginação, e como limpar a busca)
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como marcar uma anamnese como respondida
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como enviar uma anamnese para o paciente responder
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como imprimir uma anamnese
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Como responder uma anamnese
+        url: /pages/cadastro-clinica/alterando-cor
+  - title: Relatórios
+    subfolderitems:
+      - page: Tipos de Relatórios
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Relatório de taxa de conversão (dentista)
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Relatório de taxa de conversão (comercial)
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Relatório de planos de tratamento iniciados
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Relatório de planos de tratamento cancelados
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Relatório de participação de procedimentos
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Relatório de produtos
+        url: /pages/cadastro-clinica/alterando-cor
+      - page: Relatório de vendas por dia
+        url: /pages/cadastro-clinica/alterando-cor
 
 repository: "nicolas-van/bootstrap-4-github-pages"
 
