@@ -6,9 +6,9 @@ menu:
       - page: Como atender pelos agendamentos
         url: /pages/dashboard/atender-pelos-agendamentos
       - page: Como trocar de clínica
-        url: /pages/dashboard/fila-espera
+        url: /pages/dashboard/trocar-clinica
       - page: Como alterar dados do meu usuário
-        url: /pages/dashboard/fila-espera
+        url: /pages/dashboard/alterar-meu-usuario
       - page: Como alterar o idioma
         url: /pages/dashboard/alterar-idioma
       - page: Como acessar um atendimento que já foi iniciado
