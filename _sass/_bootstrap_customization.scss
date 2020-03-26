@@ -356,7 +356,7 @@ html ::-webkit-scrollbar-thumb:hover {
 }
 
 .contents {
-  padding: 10px;
+  padding: 20px;
 }
 .sidebar {
   position: sticky;
@@ -373,6 +373,14 @@ html ::-webkit-scrollbar-thumb:hover {
   list-style: none;
   padding-left: 8px;
 }
+.side-menu-group li {
+  line-height: 28px;
+}
+.side-menu-group li.active {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+}
 .search {
   padding: 10px 10px 10px 0;
 }
@@ -380,4 +388,66 @@ html ::-webkit-scrollbar-thumb:hover {
   font-size: 12px;
   padding-top: 10px;
   text-align: center;
+}
+#overlay {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #222;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.7); z-index: 4000;
+}
+.loader-bars {
+  display: block;
+  margin-right: 15px;
+}
+.loader-bar1 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.1s infinite normal both running loading;
+}
+.loader-bar2 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.2s infinite normal both running loading;
+}
+.loader-bar3 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.3s infinite normal both running loading;
+}
+.loader-bar4 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.4s infinite normal both running loading;
+}
+.loader-bar5 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.5s infinite normal both running loading;
+}
+@keyframes loading {
+  0% { transform: scaley(1.0) }
+  50% { transform: scaley(0.4) }
+  100% { transform: scaley(1.0) }
 }
