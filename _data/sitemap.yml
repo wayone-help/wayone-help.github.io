@@ -12,7 +12,7 @@ menu:
       - page: Como alterar o idioma
         url: /pages/dashboard/fila-espera
       - page: Como acessar um atendimento que já foi iniciado
-        url: /pages/dashboard/fila-espera
+        url: /pages/dashboard/como-acessar-um-atendimento-que-ja-foi-iniciado
       - page: Como iniciar um atendimento (mesma página da agenda)
         url: /pages/dashboard/fila-espera
   - title: Fila de espera
