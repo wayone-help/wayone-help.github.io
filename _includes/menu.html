@@ -1,11 +1,22 @@
-
 <div style="font-size: 14px;">
-{% for item in site.menu %}
-  <h6>{{ item.title }}</h6>
-    <ul style="list-style: none; padding-left: 15px;">
-      {% for entry in item.subfolderitems %}
+  <form role="search" class="search d-flex align-items-center">
+    <input type="search" class="form-control ds-input" id="search-input" placeholder="Pesquise..." autocomplete="off" spellcheck="false" />
+
+    <button class="btn btn-link d-none p-0 ml-3" type="button" data-toggle="collapse" data-target="#menu-entries" aria-controls="menu-entries">
+      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" role="img" focusable="false">
+        <path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path>
+      </svg>
+    </button>
+  </form>
+
+  <div class="sidebar-contents">
+    {% for item in site.data.sitemap.menu %}
+    <h6>{{ item.title }}</h6>
+    <ul style="list-style: none; padding-left: 8px;">
+        {% for entry in item.subfolderitems %}
         <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-      {% endfor %}
+        {% endfor %}
     </ul>
-{% endfor %}
+    {% endfor %}
+  </div>
 </div>
