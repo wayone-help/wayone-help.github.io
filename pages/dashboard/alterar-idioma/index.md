@@ -9,5 +9,5 @@ A alteração do idioma pode acontecer de qualquer tela, basta clicar no nome do
 que fica no canto superior direito, e depois selecionar o idioma desejado
 
 <p align="center">
-  <img alt="Alterar idioma" src="/pages/dashboard/alterar-idioma/alterar_idioma.jpg" width="800">
+  <img alt="Alterar idioma" src="/pages/dashboard/alterar-idioma/alterar_idioma.png" width="800">
 </p>

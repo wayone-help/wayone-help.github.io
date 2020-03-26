@@ -37,8 +37,8 @@
       "title": "Fila de espera",
       "children": [
         {
-          "page": "Como atender pelos agendamentos (mesma página do dashboard)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como atender pelos agendamentos",
+          "url": "/pages/dashboard/atender-pelos-agendamentos"
         }
       ]
     },
