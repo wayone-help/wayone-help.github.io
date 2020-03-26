@@ -4,6 +4,9 @@
 <loc>http://0.0.0.0:4000/pages/dashboard/alterar-idioma/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/pages/dashboard/trocar-clinica/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/pages/dashboard/filtro-agendas/</loc>
 </url>
 <url>

@@ -369,6 +369,15 @@ html ::-webkit-scrollbar-thumb:hover {
   overflow-y: scroll;
   padding: 10px 0;
 }
+.side-menu-group {
+  list-style: none;
+  padding-left: 8px;
+}
 .search {
   padding: 10px 10px 10px 0;
+}
+.no-results {
+  font-size: 12px;
+  padding-top: 10px;
+  text-align: center;
 }
