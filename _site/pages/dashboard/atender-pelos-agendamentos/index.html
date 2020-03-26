@@ -392,28 +392,37 @@
         <div class="col-md-9 col-xl-10 contents">
           <h3 id="definição">Definição</h3>
 
-<p>Tanto no dashboard quanto no menu lateral é listado dois casos de agendamento, os que estão <strong>aguardando atendimento</strong> e os que estão <strong>em atendimento</strong>. Estas listas são formadas por todas as agendas que o usuário logado
-tem acesso.</p>
+<p>Tanto no dashboard quanto no menu lateral é listado dois casos de agendamento, os que estão <strong>aguardando atendimento</strong> (fila de espera) e os que estão <strong>em atendimento</strong>. Estas listas são formadas por todas as agendas que o usuário logado tem acesso.</p>
 
 <p align="center">
-  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/tipos_agendamento.jpg" width="800" />
+  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/tipos_agendamento.png" width="800" />
 </p>
 
-<p>Antes de mostrar como atender é necessário explicar como</p>
+<p>Antes de mostrar como atender é necessário explicar os diferentes tipos de agendamento. Toda agenda pertence a um fluxo, e o agendamento consequentemente pertence ao mesmo fluxo. Existem quatro tipos de fluxo: Clínico, Operacional, Comercial e Financeiro.</p>
 
-<h3 id="definição-1">Definição</h3>
+<p>Além dos fluxos, a agenda pode ser global ou não. Todas as agendas criadas na página de configuração da clínica serão globais, somente as agendas adicionadas na implantação da clínica que sejam do fluxo clínico, e as agendas criadas automaticamente ao adicionar um usuário com permissão de dentista, que não serão.</p>
 
-<p>Mais outro Texto</p>
+<p>Uma agenda global significa que qualquer usuário que tenha acesso de visualizar ela, poderá atender também</p>
 
-<h3 id="seção-1">Seção 1</h3>
+<h3 id="fila-em-espera">Fila em espera</h3>
 
-<p>Exemplo de Link</p>
+<p>Uma lista que pode ser formada por agendas dos quatro fluxos. Se a agenda for vinculada ao seu usuário, ou for uma agenda global, ao clicar no agendamento aparecerá uma popup com os dados dela, podendo iniciar atendimento (caso já não esteja com um atendimento em andamento), senão será redirecionado para a tela da área do paciente, onde poderá ver os dados dele.</p>
 
-<p><a href="https://wayonesystem.com">Acesse o Wayone</a> e logue no sistema</p>
+<p>Se a agenda for do fluxo clínico ou operacional, é só clicar no botão <strong>atender</strong>, aparecerá assim:</p>
 
-<p>Exemplo de imagem</p>
+<p align="center">
+  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/agendamento_clinico_operacional.png" width="800" />
+</p>
 
-<p><img src="/pages/dashboard/atender-pelos-agendamentos/tipos_agendamento.jpg" alt="Tipos de agendamento" /></p>
+<p>Se a agenda for do fluxo comercial ou financeiro, é só clicar no botão <strong>iniciar atendimento</strong>, aparecerá assim:</p>
+
+<p align="center">
+  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/agendamento_comercial_financeiro.png" width="800" />
+</p>
+
+<h3 id="em-atendimento">Em atendimento</h3>
+
+<p>Se o atendimento tiver sido iniciado por você, ao clicar no agendamento será redirecionado para a tela do atendimento, senão será redirecionado para a área do paciente</p>
 
         </div>
       </div>
