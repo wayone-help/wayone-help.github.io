@@ -55,11 +55,11 @@
         },
         {
           "page": "Como filtrar os agendamentos pelo status",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/filtrar-agendamentos-pelo-status"
         },
         {
           "page": "Como acessar outra data da agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/acessar-outra-data"
         },
         {
           "page": "Como alternar a visão entre dia e semana",
