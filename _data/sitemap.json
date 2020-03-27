@@ -47,59 +47,59 @@
       "children": [
         {
           "page": "Como abrir várias agendas",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como pesquisar por uma agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como filtrar os agendamentos pelo status",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como acessar outra data da agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como alternar a visão entre dia e semana",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alternar-visao-dia-semana"
         },
         {
           "page": "Como alternar a visão entre agendas e salas",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alternar-visao-agendas-salas"
         },
         {
           "page": "Como buscar por um determinado agendamento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Tipos de agendamento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como criar um agendamento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como editar um agendamento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como adicionar um paciente pela agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como acessar a edição de um paciente pela agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como acessar a área de um paciente pela agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         },
         {
           "page": "Como iniciar um atendimento (explicar a diferença para cada fluxo, além disso explicar sobre o CPF, data de nascimento e endereço obrigatório para iniciar)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/agenda/alterando-cor"
         }
       ]
     },
