@@ -16,7 +16,7 @@ Para trocar de clínica clique sobre o nome da clínica localizado no canto **su
 Sera apresentada a tela de seleção de clínica basta escolher qual clínica deseja selecionar e **clicar no circulo na frente do nome da clínica desejada**.
 
 <p align="center">
-  <img alt="Seleção de Clínica" src="/pages/dashboard/trocar-clinica/selecao-de-clinica-arrow.png" width="800">
+  <img alt="Seleção de Clínica" src="/pages/dashboard/trocar-clinica/select-clinic-arrow.png" width="800">
 </p>
 
 A mudança pode ser observada no nome da clínica localizado no canto **superior direito**.
