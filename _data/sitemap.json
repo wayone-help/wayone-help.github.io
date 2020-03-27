@@ -47,11 +47,11 @@
       "children": [
         {
           "page": "Como abrir várias agendas",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/como-abrir-varias-agendas"
         },
         {
           "page": "Como pesquisar por uma agenda",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/como-pesquisar-por-uma-agenda"
         },
         {
           "page": "Como filtrar os agendamentos pelo status",
