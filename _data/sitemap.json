@@ -86,6 +86,14 @@
           "url": "/pages/agenda/alterando-cor"
         },
         {
+          "page": "Como excluir um agendamento",
+          "url": "/pages/agenda/excluir-agendamento"
+        },
+        {
+          "page": "Como duplicar um agendamento",
+          "url": "/pages/agenda/duplicar-agendamento"
+        },
+        {
           "page": "Como adicionar um paciente pela agenda",
           "url": "/pages/agenda/alterando-cor"
         },
