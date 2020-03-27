@@ -339,7 +339,7 @@
         },
         {
           "page": "Como editar um usuário",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/cadastro-clinica/editar-usuario"
         },
         {
           "page": "O que é o perfil de um usuário? (mesma página do perfil)",
