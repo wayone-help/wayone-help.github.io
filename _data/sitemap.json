@@ -47,11 +47,11 @@
       "children": [
         {
           "page": "Como abrir várias agendas",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/como-abrir-varias-agendas"
         },
         {
           "page": "Como pesquisar por uma agenda",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/como-pesquisar-por-uma-agenda"
         },
         {
           "page": "Como filtrar os agendamentos pelo status",
@@ -71,7 +71,7 @@
         },
         {
           "page": "Como buscar por um determinado agendamento",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/buscar-determinado-agendamento"
         },
         {
           "page": "Tipos de agendamento",
@@ -84,6 +84,14 @@
         {
           "page": "Como editar um agendamento",
           "url": "/pages/agenda/editar-agendamento"
+        },
+        {
+          "page": "Como excluir um agendamento",
+          "url": "/pages/agenda/excluir-agendamento"
+        },
+        {
+          "page": "Como duplicar um agendamento",
+          "url": "/pages/agenda/duplicar-agendamento"
         },
         {
           "page": "Como adicionar um paciente pela agenda",
