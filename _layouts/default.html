@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   {%- include head.html -%}
 
-  <body>
+  <body style="overflow-x: hidden;">
     {%- include header.html -%}
 
     <div class="container-fluid" style="margin-top: 56px;">
@@ -15,5 +15,22 @@
         </div>
       </div>
     </div>
+
+    <div id="overlay">
+      <div class="loader-bars">
+        <div class="loader-bar1"></div>
+        <div class="loader-bar2"></div>
+        <div class="loader-bar3"></div>
+        <div class="loader-bar4"></div>
+        <div class="loader-bar5"></div>
+      </div>
+      Carregando...
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('#overlay').fadeOut()
+      })
+    </script>
   </body>
 </html>

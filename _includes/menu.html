@@ -7,7 +7,9 @@
 </div>
 
 <script type="text/javascript">
-    let allMenus = [];
+    let allMenus = [],
+      currentPage = `{{ page.url }}`
+
     {% for item in site.data.sitemap.menu %}
       {% for entry in item.children %}
         allMenus.push({
@@ -20,6 +22,8 @@
 
     let renderMenus = function(menuList, searchString="") {
       let mainDiv = document.getElementsByClassName("sidebar-contents")[0]
+
+      console.log({ currentPage })
 
       if (menuList.length > 0) {
         let mapMenu = []
@@ -48,6 +52,9 @@
               itemAnchor.innerHTML = item.page
               itemAnchor.href = item.url
 
+              if (currentPage === item.url || currentPage === (item.url + '/')) {
+                itemLi.className = "active"
+              }
               itemLi.appendChild(itemAnchor)
               childrenUl.appendChild(itemLi)
             }               
@@ -75,17 +82,14 @@
       if (query === '') {
         return list
       }
-      let options = {
-        findAllMatches: true,
-        threshold: 0.2,
-        location: 0,
-        distance: 50,
-        maxPatternLength: 50,
-        minMatchCharLength: 1,
-        keys: [ 'page' ]
+      let filter = new RegExp(query, 'i'),
+        result = []
+      for (var i = 0; i < list.length; i++) {
+        let row = list[i]
+        if (filter.test(row.page)) {
+          result.push(row)
+        }
       }
-      let fuse = new Fuse(list, options),
-        result = fuse.search(query)
       return result
     }
 
