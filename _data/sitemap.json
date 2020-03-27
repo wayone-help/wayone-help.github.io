@@ -55,7 +55,7 @@
         },
         {
           "page": "Como filtrar os agendamentos pelo status",
-          "url": "/pages/agenda/filtrar-agendamentos-pelo-status"
+          "url": "/pages/agenda/filtrar-agendamentos-pela-situacao"
         },
         {
           "page": "Como acessar outra data da agenda",
@@ -75,15 +75,15 @@
         },
         {
           "page": "Tipos de agendamento",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/tipos-agendamento"
         },
         {
           "page": "Como criar um agendamento",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/criar-agendamento"
         },
         {
           "page": "Como editar um agendamento",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/editar-agendamento"
         },
         {
           "page": "Como adicionar um paciente pela agenda",
