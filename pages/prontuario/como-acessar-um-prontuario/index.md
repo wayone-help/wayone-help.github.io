@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dashboard - Como acessar um prontuário
+title: Prontuário - Como acessar um prontuário
 ---
 
 ### Definição

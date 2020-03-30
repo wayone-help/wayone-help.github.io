@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dashboard - Como adicionar um comentário no prontuário
+title: Prontuário - Como adicionar um comentário no prontuário
 ---
 
 ### Definição

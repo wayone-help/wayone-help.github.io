@@ -14,6 +14,8 @@ Uma vez que o agendamento foi salvo, clique sobre o botão **INICIAR ATENDIMENTO
   <img alt="Inciciando atendimento" src="como-iniciar-um-atendimento-img-01.png" width="800">
 </p>
 
+**Caso não conste CPF no cadastro do paciente, será redirecionado para tela de paciente.**
+
 Confirme se deseja iniciar o atendimento clínico.
 <p align="center">
   <img alt="Inciciando atendimento" src="como-iniciar-um-atendimento-img-02.png" width="800">

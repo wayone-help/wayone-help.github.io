@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dashboard - Como fazer um atendimento operacional
+title: Atendimento - Como fazer um atendimento operacional
 ---
 
 ### Definição

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dashboard - Como fazer um atendimento clínico
+title: Atendimento - Como fazer um atendimento clínico
 ---
 
 ### Definição
