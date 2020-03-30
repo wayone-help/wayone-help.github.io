@@ -5,7 +5,7 @@ title: Agenda - Criar agendamento
 
 ### Definição
 
-Ao acessar a agenda, no centro dela existe uma área com intervalos de horário, basta clicar próximo ao horarío desejado que será aberto uma popup para preencher os campos. Nesta popup você poderá ajustar a hora e os minutos de forma mais precisa.
+Ao acessar a agenda, no centro dela existe uma área com intervalos de horário, basta clicar próximo ao horário desejado que será aberto uma popup para preencher os campos. Nesta popup você poderá ajustar a hora e os minutos de forma mais precisa.
 
 <p align="center">
   <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/selecionar_horario_agenda.png" width="800">
