@@ -219,7 +219,7 @@
       "title": "clínica",
       "children": [
         {
-          "page": "Como pesquisar por uma clínica (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar por uma clínica",
           "url": "/pages/clinica/como-pesquisar-uma-clinica"
         },
         {
@@ -236,7 +236,7 @@
         },
         {
           "page": "Como adicionar e/ou remover uma agenda",
-          "url": "/pages/clinica/como-adicionar-remover-status-uma-agenda"
+          "url": "/pages/clinica/como-adicionar-remover-uma-agenda"
         },
         {
           "page": "Como adicionar e/ou remover um novo tipo de atendimento para a agenda",
@@ -247,7 +247,7 @@
           "url": "/pages/clinica/como-adicionar-remover-restricao-para-atendimento"
         },
         {
-          "page": "Como configurar as cores dos agendamentos (status ou agenda)",
+          "page": "Como configurar as cores dos agendamentos",
           "url": "/pages/clinica/como-configurar-cores-agendamento"
         },
         {
