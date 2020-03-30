@@ -26,10 +26,6 @@
         {
           "page": "Como acessar um atendimento que já foi iniciado",
           "url": "/pages/dashboard/como-acessar-um-atendimento-que-ja-foi-iniciado"
-        },
-        {
-          "page": "Como iniciar um atendimento (mesma página da agenda)",
-          "url": "/pages/dashboard/fila-espera"
         }
       ]
     },
@@ -103,11 +99,11 @@
         },
         {
           "page": "Como acessar a área de um paciente pela agenda",
-          "url": "/pages/agenda/Como-acessar-a-area-de-um-paciente-pela-agenda"
+          "url": "/pages/agenda/como-acessar-a-area-de-um-paciente-pela-agenda"
         },
         {
-          "page": "Como iniciar um atendimento (explicar a diferença para cada fluxo, além disso explicar sobre o CPF, data de nascimento e endereço obrigatório para iniciar)",
-          "url": "/pages/agenda/alterando-cor"
+          "page": "Como iniciar um atendimento",
+          "url": "/pages/agenda/como-iniciar-um-atendimento"
         }
       ]
     },
@@ -120,15 +116,15 @@
         },
         {
           "page": "Como fazer uma atendimento clínico",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/atendimento/como-fazer-um-atendimento-clinico"
         },
         {
           "page": "Como fazer uma atendimento operacional",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/atendimento/como-fazer-um-atendimento-operacional"
         },
         {
           "page": "Abas do atendimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/atendimento/abas-do-atendimento"
         }
       ]
     },
@@ -140,16 +136,16 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "Como pesquisar por um prontuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por um prontuário",
+          "url": "/pages/prontuario/como-pesquisar-por-um-prontuario"
         },
         {
           "page": "Como acessar um prontuário",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/prontuario/como-acessar-um-prontuario"
         },
         {
           "page": "Como adicionar um comentário no prontuário",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/prontuario/Como-adicionar-um-comentario-no-prontuario"
         }
       ]
     },
