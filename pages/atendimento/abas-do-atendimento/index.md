@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dashboard - Abas do atendimento
+title: Atendimento - Abas do atendimento
 ---
 
 ### Definição

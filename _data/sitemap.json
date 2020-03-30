@@ -183,35 +183,35 @@
       "children": [
         {
           "page": "Tipos de Relatórios",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/tipos-relatorios"
         },
         {
           "page": "Relatório de taxa de conversão (dentista)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/taxa-conversao-dentista"
         },
         {
           "page": "Relatório de taxa de conversão (comercial)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/taxa-conversao-comercial"
         },
         {
           "page": "Relatório de planos de tratamento iniciados",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/planos-tratamento-iniciados"
         },
         {
           "page": "Relatório de planos de tratamento cancelados",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/planos-tratamento-cancelados"
         },
         {
           "page": "Relatório de participação de procedimentos",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/participacao-procedimentos"
         },
         {
           "page": "Relatório de produtos",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/produtos"
         },
         {
           "page": "Relatório de vendas por dia",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/vendas-por-dia"
         }
       ]
     },
@@ -305,24 +305,24 @@
       "title": "Perfil",
       "children": [
         {
-          "page": "Como pesquisar por um perfil (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "O que é um perfil",
+          "url": "/pages/perfil/o-que-e-um-perfil"
         },
         {
-          "page": "O que é um perfil?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por um perfil",
+          "url": "/pages/perfil/como-pesquisar-por-um-perfil"
         },
         {
           "page": "Como criar um perfil",
-          "url": "/pages/cadastro-clinica/alterando-cor"
-        },
-        {
-          "page": "Como desativar um perfil",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/perfil/como-criar-um-perfi"
         },
         {
           "page": "Como editar um perfil",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/perfil/como-editar-um-perfil"
+        },
+        {
+          "page": "Como desativar um perfil",
+          "url": "/pages/perfil/como-desativar-um-perfil"
         }
       ]
     },
@@ -330,28 +330,28 @@
       "title": "Usuários",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "O que é o perfil de um usuário",
+          "url": "/pages/usuario/o-que-e-o-perfil-de-um-usuário"
         },
         {
-          "page": "Como excluir um usuário",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por um usuário",
+          "url": "/pages/usuario/como-pesquisar-por-um-usuario"
         },
         {
           "page": "Como adicionar um usuário",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/usuario/como-adicionar-um-usuário"
         },
         {
           "page": "Como editar um usuário",
-          "url": "/pages/cadastro-clinica/editar-usuario"
+          "url": "/pages/usuario/como-editar-um-usuario"
         },
         {
-          "page": "O que é o perfil de um usuário? (mesma página do perfil)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como excluir um usuário",
+          "url": "/pages/usuario/como-excluir-um-usuario"
         },
         {
           "page": "Como configurar as agendas que um usuário pode acessar",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/usuario/como-configurar-as-agendas-que-um-usuario-pode-acessar"
         }
       ]
     },
