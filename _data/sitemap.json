@@ -136,12 +136,12 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "Como pesquisar por um prontuário",
-          "url": "/pages/prontuario/como-pesquisar-por-um-prontuario"
-        },
-        {
           "page": "Como acessar um prontuário",
           "url": "/pages/prontuario/como-acessar-um-prontuario"
+        },
+        {
+          "page": "Como pesquisar por um prontuário",
+          "url": "/pages/prontuario/como-pesquisar-por-um-prontuario"
         },
         {
           "page": "Como adicionar um comentário no prontuário",
