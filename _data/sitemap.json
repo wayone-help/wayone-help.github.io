@@ -112,7 +112,7 @@
       "children": [
         {
           "page": "Qual a diferença entre um atendimento da agenda clínica e da operacional?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/atendimento/diferenca-entre-atendimento-clinico-e-operacional"
         },
         {
           "page": "Como fazer uma atendimento clínico",
@@ -133,7 +133,7 @@
       "children": [
         {
           "page": "O que é um prontuário?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/prontuario/o-que-e-um-prontuario"
         },
         {
           "page": "Como pesquisar por um prontuário",
@@ -154,27 +154,27 @@
       "children": [
         {
           "page": "O que é uma anamnese?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/gestao-anamnese/o-que-e-uma-anamnese"
         },
         {
-          "page": "Como pesquisar por uma anamnese (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por uma anamnese",
+          "url": "/pages/gestao-anamnese/como-pesquisar-uma-anamnese"
         },
         {
           "page": "Como marcar uma anamnese como respondida",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/gestao-anamnese/como-marcar-uma-anamnese-como-respondida"
         },
         {
           "page": "Como enviar uma anamnese para o paciente responder",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/gestao-anamnese/como-enviar-uma-anamnese-para-paciente-responder"
         },
         {
           "page": "Como imprimir uma anamnese",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/gestao-anamnese/como-imprimir-uma-anamnese"
         },
         {
           "page": "Como responder uma anamnese",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/gestao-anamnese/como-responder-uma-anamnese"
         }
       ]
     },
@@ -220,59 +220,59 @@
       "children": [
         {
           "page": "Como pesquisar por uma clínica (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-pesquisar-uma-clinica"
         },
         {
           "page": "Como selecionar uma clínica pela lista",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/alterando-cor"
         },
         {
           "page": "Como editar uma clínica",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/editar-clinica"
         },
         {
           "page": "Como adicionar e/ou remover um novo status para as consultas",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-adicionar-remover-status-para-consulta"
         },
         {
           "page": "Como adicionar e/ou remover uma agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-adicionar-remover-status-uma-agenda"
         },
         {
           "page": "Como adicionar e/ou remover um novo tipo de atendimento para a agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-adicionar-remover-tipo-de-atendimento"
         },
         {
           "page": "Como adicionar e/ou remover uma nova restrição para o atendimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-adicionar-remover-restricao-para-atendimento"
         },
         {
           "page": "Como configurar as cores dos agendamentos (status ou agenda)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-configurar-cores-agendamento"
         },
         {
           "page": "Como configurar o horário de funcionamento da clínica",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-configurar-horario-funcionamento"
         },
         {
           "page": "Como configurar o tempo mínimo de consulta",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-configurar-tempo-minimo-consulta"
         },
         {
           "page": "Como configurar o intervalo de tempo para visualização na agenda",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-configurar-intervalo-tempo-visualizacao-agenda"
         },
         {
           "page": "Como configurar envio de e-mail para o paciente após cadastrar um agendamento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-configurar-envio-email-apos-agendamento"
         },
         {
           "page": "Como configurar a aba que será exibida inicialmente ao abrir o atendimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-configurar-aba-inicial-atendimento"
         },
         {
           "page": "Como configurar a tela do sistema que será redirecionado ao finalizar um atendimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/clinica/como-configurar-redirecionamento-apos-atendimento"
         }
       ]
     },
