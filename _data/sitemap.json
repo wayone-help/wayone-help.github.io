@@ -91,7 +91,7 @@
         },
         {
           "page": "Como adicionar um paciente pela agenda",
-          "url": "/pages/agenda/alterando-cor"
+          "url": "/pages/agenda/adicionar-paciente-agenda"
         },
         {
           "page": "Como acessar a edição de um paciente pela agenda",
@@ -136,16 +136,16 @@
           "url": "/pages/prontuario/o-que-e-um-prontuario"
         },
         {
-          "page": "Como pesquisar por um prontuário",
-          "url": "/pages/prontuario/como-pesquisar-por-um-prontuario"
-        },
-        {
           "page": "Como acessar um prontuário",
           "url": "/pages/prontuario/como-acessar-um-prontuario"
         },
         {
+          "page": "Como pesquisar por um prontuário",
+          "url": "/pages/prontuario/como-pesquisar-por-um-prontuario"
+        },
+        {
           "page": "Como adicionar um comentário no prontuário",
-          "url": "/pages/prontuario/Como-adicionar-um-comentario-no-prontuario"
+          "url": "/pages/prontuario/como-adicionar-um-comentario-no-prontuario"
         }
       ]
     },
