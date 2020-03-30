@@ -183,35 +183,35 @@
       "children": [
         {
           "page": "Tipos de Relatórios",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/tipos-relatorios"
         },
         {
           "page": "Relatório de taxa de conversão (dentista)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/taxa-conversao-dentista"
         },
         {
           "page": "Relatório de taxa de conversão (comercial)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/taxa-conversao-comercial"
         },
         {
           "page": "Relatório de planos de tratamento iniciados",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/planos-tratamento-iniciados"
         },
         {
           "page": "Relatório de planos de tratamento cancelados",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/planos-tratamento-cancelados"
         },
         {
           "page": "Relatório de participação de procedimentos",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/participacao-procedimentos"
         },
         {
           "page": "Relatório de produtos",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/produtos"
         },
         {
           "page": "Relatório de vendas por dia",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/relatorio/vendas-por-dia"
         }
       ]
     },
