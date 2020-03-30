@@ -7,6 +7,10 @@ title: Agenda - Como iniciar um atendimento
 
 Toda agenda pertence a um fluxo, e o agendamento consequentemente pertence ao mesmo fluxo. Existem quatro tipos de fluxo: **Clínico**, **Operacional**, **Comercial** e **Financeiro**.
 
+* <a href="#-clínico">Atendimento Clínico</a> 
+* <a href="#-operacional">Atendimento Operacional</a> 
+* <a href="#-comercial">Atendimento Comercial</a> 
+* <a href="#-Financeiro">Atendimento Financeiro</a> 
 
 ### Clínico
 Uma vez que o agendamento foi salvo, clique sobre o botão **INICIAR ATENDIMENTO**
