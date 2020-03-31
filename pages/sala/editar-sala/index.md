@@ -21,5 +21,5 @@ Sera apresentada a tela de edição com os dados da sala selecionada.
 2. Botão **Cancelar** - cancela a edição de sala e retorna para a listagem.
 3. Botão **Salvar** - salva a edição da sala e retorna para a listagem.
 
-**Preencha os campos necessários** e clique no botão **Salvar** para concluir a edição.
+**Altere os campos desejados** e clique no botão **Salvar** para concluir a edição.
 
