@@ -359,64 +359,64 @@
       "title": "Pacientes",
       "children": [
         {
-          "page": "Como pesquisar por um paciente (explicar busca e seus tipos, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por um paciente",
+          "url": "/pages/paciente/como-pesquisar-por-um-paciente"
         },
         {
-          "page": "O que é o número de prontuário? (Trocar no código coluna 'código SAP' para 'número de prontuário' igual na busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "O que é o número de prontuário",
+          "url": "/pages/paciente/o-que-e-o-numero-de-prontuario"
         },
         {
           "page": "Como adicionar um paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-adicionar-um-paciente"
         },
         {
           "page": "Como excluir um paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-excluir-um-paciente"
         },
         {
           "page": "Como editar um paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-editar-um-paciente"
         },
         {
           "page": "Como acessar a área do paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-acessar-a-area-do-paciente"
         },
         {
-          "page": "O que é a área do paciente? (explicar tudo que tem, aproveitar partes do atendimento)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "O que é a área do paciente",
+          "url": "/pages/paciente/o-que-e-a-area-do-paciente"
         },
         {
           "page": "Para que serve o campo de anamnese no cadastro de paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/para-que-serve-o-campo-de-anamnese-no-cadastro-de-paciente"
         },
         {
           "page": "O que é um responsável financeiro",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/o-que-e-um-responsavel-financeiro"
         },
         {
           "page": "Como cadastrar um responsável financeiro",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-cadastrar-um-responsavel-financeiro "
         },
         {
           "page": "Como remover um responsável financeiro vinculado a um paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-remover-um-responsavel-financeiro-vinculado-a-um-paciente"
         },
         {
           "page": "Como adicionar e/ou remover um contato do paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-adicionar-remover-um-contato-do-paciente"
         },
         {
           "page": "Como adicionar e/ou remover uma classificação de um paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-adicionar-remover-uma-classificacao-de-um-paciente"
         },
         {
           "page": "Como adicionar e/ou remover uma restrição de um paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-adicionar-remover-uma-restricao-de-um-paciente"
         },
         {
           "page": "Como saber quem criou e/ou editou o cadastro de um paciente",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/paciente/como-saber-quem-criou-editou-o-cadastro-de-um-paciente"
         }
       ]
     },
@@ -547,8 +547,16 @@
       "title": "Aprovação de Desconto",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por orçamento",
+          "url": "/pages/aprovacao-desconto/"
+        },
+        {
+          "page": "Como aceitar um desconto",
+          "url": "/pages/aprovacao-desconto/"
+        },
+        {
+          "page": "Como recusar um desconto",
+          "url": "/pages/aprovacao-desconto/"
         }
       ]
     },
@@ -556,8 +564,48 @@
       "title": "Caixa",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como abrir o caixa",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Como fechar o caixa",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Como fazer um retirada",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Como fazer um suprimento",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Onde verificar os valores recebidos",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Como fazer um recebimento",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Como rejeitar um plano",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Como efetivar um pagamento",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Onde imprimir comprovante de pagamento",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Como excluir uma forma de pagamento",
+          "url": "/pages/caixa/"
+        },
+        {
+          "page": "Com adicionar uma nova forma de pagamento",
+          "url": "/pages/caixa/"
         }
       ]
     },
@@ -565,8 +613,16 @@
       "title": "Roteiro",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por um roteiro",
+          "url": "/pages/roteiro/"
+        },
+        {
+          "page": "Como editar um roteiro",
+          "url": "/pages/roteiro/"
+        },
+        {
+          "page": "Com enviar um e-mail para o paciente com o roteiro",
+          "url": "/pages/roteiro/"
         }
       ]
     }
