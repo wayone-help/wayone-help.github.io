@@ -492,19 +492,19 @@
       "children": [
         {
           "page": "Como pesquisar por um procedimento (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/procedimento/pesquisar-procedimento"
         },
         {
           "page": "Como excluir um procedimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/procedimento/excluir-procedimento"
         },
         {
           "page": "Como adicionar um procedimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/procedimento/adicionar-procedimento"
         },
         {
           "page": "Como editar um procedimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/procedimento/editar-procedimento"
         }
       ]
     },

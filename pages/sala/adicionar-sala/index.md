@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sala - Como excluir uma sala
+title: Sala - Como adicionar uma sala
 ---
 
 ### Definição

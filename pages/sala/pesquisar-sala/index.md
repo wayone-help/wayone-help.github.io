@@ -5,7 +5,7 @@ title: Sala - Como pesquisar por uma sala
 
 ### Definição
 
-**Existem duas formas de pesquisar por um sala**
+**Existem duas formas de pesquisar por uma sala**
 
 ### Paginação
 
@@ -17,7 +17,7 @@ Navegando entre as páginas utilizando as setas localizadas na parte inferior di
 
 ### Busca
 
-Na parte superior direita da lista, existe um **botão de lupa**, ao clicar nele será aberto **no lado esquerdo um campo para digitar texto**, digite o nome do paciente e **pressione a tecla enter para iniciar a busca**
+Na parte superior direita da lista, existe um **botão de lupa**, ao clicar nele será aberto **no lado esquerdo um campo para digitar texto**, digite o nome da sala e **pressione a tecla enter para iniciar a busca**
 
 <p align="center">
   <img alt="pesquisar-sala-img-2" src="pesquisar-sala-img-2.png" width="800">
