@@ -446,19 +446,19 @@
       "children": [
         {
           "page": "Como pesquisar por uma sala (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/sala/pesquisar-sala"
         },
         {
           "page": "Como excluir uma sala",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/sala/excluir-sala"
         },
         {
           "page": "Como adicionar uma sala",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/sala/adicionar-sala"
         },
         {
           "page": "Como editar uma sala",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/sala/editar-sala"
         }
       ]
     },
