@@ -277,27 +277,27 @@
       ]
     },
     {
-      "title": "Modelo de documento (Clínica)",
+      "title": "Modelo de documento",
       "children": [
         {
-          "page": "Como pesquisar por um modelo de documento (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por um modelo de documento",
+          "url": "/pages/modelo-documento/como-pesquisar-um-modelo"
         },
         {
           "page": "Tipos de modelo de documento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/modelo-documento/tipos-de-modelo"
         },
         {
           "page": "Como adicionar um modelo de documento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/modelo-documento/adicionar-modelo"
         },
         {
           "page": "Como editar um modelo de documento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/modelo-documento/editar-modelo"
         },
         {
           "page": "Campos do modelo de documento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/modelo-documento/campos-modelo"
         }
       ]
     },
