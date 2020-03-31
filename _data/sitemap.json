@@ -425,19 +425,19 @@
       "children": [
         {
           "page": "Como pesquisar por uma anamnese (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/anamnese/pesquisar-anamnese"
         },
         {
-          "page": "Como adicionar uma anamnese? (opção de duplicar)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como duplicar uma anamnese",
+          "url": "/pages/anamnese/duplicar-anamnese"
         },
         {
           "page": "Como excluir uma anamnese",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/anamnese/excluir-anamnese"
         },
         {
           "page": "Como editar uma anamnese (mostrar os diferentes tipos de perguntas, possíveis respostas e como adicionar e/ou remover uma pergunta)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/anamnese/editar-anamnese"
         }
       ]
     },
