@@ -513,15 +513,15 @@
       "children": [
         {
           "page": "Como pesquisar por um tipo de procedimento (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tipos-procedimentos/pesquisar-tipo"
         },
         {
           "page": "O que é a coluna de código SAP?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tipos-procedimentos/codigo-sap"
         },
         {
           "page": "Como editar um tipo de procedimento",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tipos-procedimentos/editar-tipo"
         }
       ]
     },
