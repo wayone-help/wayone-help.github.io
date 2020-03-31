@@ -1,36 +1,30 @@
 ---
 layout: page
-title: Agenda - Como buscar por um determinado agendamento
+title: Relatórios - Produtos
 ---
 
 ### Definição
 
-Excluir um agendamento ira limpar o registro do calendário não sendo possível recupera-ló.
+O relatório de produtos apresenta os procedimentos realizados em determinado período junto a outras informações.
 
-Para excluir um agendamento selecione o agendamento clicando sobre ele no calendário.
-
-<p align="center">
-  <img alt="excluir-agendamento-img-1" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-1.png" width="800">
-</p>
-
-Na tela do agendamento clique sobre o botão **Excluir** no canto superior direito.
+Selecione o relatório de **Produtos** clicando sobre o nome dele no menu localizado no lado esquerdo da tela
 
 <p align="center">
-  <img alt="excluir-agendamento-img-2" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-2.png" width="800">
+  <img alt="produtos-img-1" src="/pages/relatorio/produtos/produtos-img-1.png" width="800">
 </p>
 
-Sera exibida a tela de exclusão do agendamento.
+Será exibido os filtros necessários para a geração do relatório.
 
 <p align="center">
-  <img alt="excluir-agendamento-img-3" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-3.png" width="800">
+  <img alt="produtos-img-2" src="/pages/relatorio/produtos/produtos-img-2.png" width="800">
 </p>
 
-1. Seleção do **Motivo da Exclusão** - selecione o motivo da exclusão.
-    - Os motivos existentes são:
-        - Desmarcado - A clínica entrou em contato com o cliente e desmarcou a agenda.
-        - Desmarcou - O cliente entrou em contato com a clínica e solicitou para desmarcar.
-        - Não Atendido - O cliente compareceu na clínica e não foi atendido.
-        - Outro.
-2. **Observação da Exclusão** - descreva qual o motivo da exclusão, campo obrigatório deve possuir mais de 4 caracteres.
-3. Botão **Cancelar** - cancela a exclusão e fecha a tela de exclusão.
-4. Botão **Excluir** - exclui o agendamento.
+1. Seleção a **Data Inicial** - filtra pela data inicial informada.
+2. Seleção a **Data Final** - filtra pela data final informada.
+3. Botão **Gerar Relatório** - gera o relatório aplicando os filtros.
+
+Após clicar no botão de gerar o relatório sera gerado um **arquivo em formato .pdf** basta clicar sobre ele para visualiza-lo.
+
+<p align="center">
+  <img alt="produtos-img-3" src="/pages/relatorio/produtos/produtos-img-3.jpg" width="800" style="border: thin solid #000">
+</p>
