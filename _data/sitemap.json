@@ -330,8 +330,8 @@
       "title": "Usuários",
       "children": [
         {
-          "page": "O que é o perfil de um usuário",
-          "url": "/pages/usuario/o-que-e-o-perfil-de-um-usuário"
+          "page": "O que é o perfil de um usuario",
+          "url": "/pages/usuario/o-que-e-o-perfil-de-um-usuario"
         },
         {
           "page": "Como pesquisar por um usuário",
@@ -339,7 +339,7 @@
         },
         {
           "page": "Como adicionar um usuário",
-          "url": "/pages/usuario/como-adicionar-um-usuário"
+          "url": "/pages/usuario/como-adicionar-um-usuario"
         },
         {
           "page": "Como editar um usuário",
