@@ -387,10 +387,6 @@
           "url": "/pages/paciente/o-que-e-a-area-do-paciente"
         },
         {
-          "page": "Para que serve o campo de anamnese no cadastro de paciente",
-          "url": "/pages/paciente/para-que-serve-o-campo-de-anamnese-no-cadastro-de-paciente"
-        },
-        {
           "page": "O que é um responsável financeiro",
           "url": "/pages/paciente/o-que-e-um-responsavel-financeiro"
         },
@@ -415,7 +411,7 @@
           "url": "/pages/paciente/como-adicionar-remover-uma-restricao-de-um-paciente"
         },
         {
-          "page": "Como saber quem criou e/ou editou o cadastro de um paciente",
+          "page": "Como saber quem criou e/ou editou o cadastro de um paciente - Auditoria",
           "url": "/pages/paciente/como-saber-quem-criou-editou-o-cadastro-de-um-paciente"
         }
       ]

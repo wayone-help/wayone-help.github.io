@@ -49,6 +49,3 @@ Salve a alteração **clicando** sobre o botão **SALVAR**
 <p align="center">
   <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-08.png" width="800">
 </p>
-
-
-
