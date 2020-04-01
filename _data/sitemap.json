@@ -669,26 +669,16 @@
       "title": "Roteiro",
       "children": [
         {
-<<<<<<< HEAD
           "page": "Como pesquisar por um roteiro",
           "url": "/pages/roteiro/pesquisar-roteiro"
-=======
-          "page": "Como pesquisar um roteiro",
-          "url": "/pages/roteiro/"
->>>>>>> 49e80e86d75c9ea499ca12e498d47f491ebe039d
         },
         {
           "page": "Como editar um roteiro",
           "url": "/pages/roteiro/editar-roteiro"
         },
         {
-<<<<<<< HEAD
           "page": "Com enviar um e-mail para o paciente com o roteiro",
           "url": "/pages/roteiro/enviar-email-para-paciente-com-roteiro"
-=======
-          "page": "Como enviar um email para o paciente",
-          "url": "/pages/roteiro/"
->>>>>>> 49e80e86d75c9ea499ca12e498d47f491ebe039d
         }
       ]
     }
