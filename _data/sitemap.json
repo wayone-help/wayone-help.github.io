@@ -50,7 +50,7 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "Como pesquisar por uma agenda",
+          "page": "Como pesquisar uma agenda",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -132,7 +132,7 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "Como pesquisar por um prontuário (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um prontuário",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -153,7 +153,7 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "Como pesquisar por uma anamnese (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma anamnese",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -212,10 +212,10 @@
       ]
     },
     {
-      "title": "clínica",
+      "title": "Clínica",
       "children": [
         {
-          "page": "Como pesquisar por uma clínica (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma clínica",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -243,7 +243,7 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "Como configurar as cores dos agendamentos (status ou agenda)",
+          "page": "Como configurar as cores dos agendamentos",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -276,7 +276,7 @@
       "title": "Modelo de documento (Clínica)",
       "children": [
         {
-          "page": "Como pesquisar por um modelo de documento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um modelo de documento",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -301,7 +301,7 @@
       "title": "Perfil",
       "children": [
         {
-          "page": "Como pesquisar por um perfil (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um perfil",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -326,7 +326,7 @@
       "title": "Usuários",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um usuário",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -342,7 +342,7 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "O que é o perfil de um usuário? (mesma página do perfil)",
+          "page": "O que é o perfil de um usuário?",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -355,11 +355,11 @@
       "title": "Pacientes",
       "children": [
         {
-          "page": "Como pesquisar por um paciente (explicar busca e seus tipos, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um paciente",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "O que é o número de prontuário? (Trocar no código coluna 'código SAP' para 'número de prontuário' igual na busca)",
+          "page": "O que é o número de prontuário?",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -379,7 +379,7 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "O que é a área do paciente? (explicar tudo que tem, aproveitar partes do atendimento)",
+          "page": "O que é a área do paciente?",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -420,7 +420,7 @@
       "title": "Anamnese",
       "children": [
         {
-          "page": "Como pesquisar por uma anamnese (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma anamnese",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -432,7 +432,7 @@
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
-          "page": "Como editar uma anamnese (mostrar os diferentes tipos de perguntas, possíveis respostas e como adicionar e/ou remover uma pergunta)",
+          "page": "Como editar uma anamnese",
           "url": "/pages/cadastro-clinica/alterando-cor"
         }
       ]
@@ -441,7 +441,7 @@
       "title": "Sala",
       "children": [
         {
-          "page": "Como pesquisar por uma sala (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma sala",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -487,7 +487,7 @@
       "title": "Procedimento",
       "children": [
         {
-          "page": "Como pesquisar por um procedimento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um procedimento",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -508,7 +508,7 @@
       "title": "Tipos de procedimento",
       "children": [
         {
-          "page": "Como pesquisar por um tipo de procedimento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um tipo de procedimento",
           "url": "/pages/cadastro-clinica/alterando-cor"
         },
         {
@@ -525,8 +525,40 @@
       "title": "Plano de Tratamento",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Encontrar um Plano de Tratamento",
+          "url": "/pages/planning/search"
+        },
+        {
+          "page": "Criar um novo Plano de Tratamento",
+          "url": "/pages/planning/create"
+        },
+        {
+          "page": "Criando um novo Plano de Tratamento",
+          "url": "/pages/planning/creating"
+        },
+        {
+          "page": "Trocar o tipo de Odontograma de um Plano de Tratamento",
+          "url": "/pages/planning/odontogram-change"
+        },
+        {
+          "page": "Duplicar um Plano de Tratamento",
+          "url": "/pages/planning/duplicate"
+        },
+        {
+          "page": "Imprimir um Plano de Tratamento",
+          "url": "/pages/planning/print"
+        },
+        {
+          "page": "Enviando um Plano de Tratamento para orçamento",
+          "url": "/pages/planning/budget"
+        },
+        {
+          "page": "Não consigo criar novo um Plano de Tratamento, por que?",
+          "url": "/pages/planning/error-create"
+        },
+        {
+          "page": "Não consigo editar um Plano de Tratamento, por que?",
+          "url": "/pages/planning/error-edit"
         }
       ]
     },
@@ -534,7 +566,7 @@
       "title": "Orçamento",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um usuário",
           "url": "/pages/cadastro-clinica/alterando-cor"
         }
       ]
@@ -543,7 +575,7 @@
       "title": "Aprovação de Desconto",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um usuário",
           "url": "/pages/cadastro-clinica/alterando-cor"
         }
       ]
@@ -552,7 +584,7 @@
       "title": "Caixa",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um usuário",
           "url": "/pages/cadastro-clinica/alterando-cor"
         }
       ]
@@ -561,7 +593,7 @@
       "title": "Roteiro",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um usuário",
           "url": "/pages/cadastro-clinica/alterando-cor"
         }
       ]
