@@ -576,15 +576,11 @@
       "children": [
         {
           "page": "Como pesquisar por orçamento",
-          "url": "/pages/aprovacao-desconto/"
+          "url": "/pages/aprovacao-desconto/como-pesquisar-um-orcamento"
         },
         {
-          "page": "Como aceitar um desconto",
-          "url": "/pages/aprovacao-desconto/"
-        },
-        {
-          "page": "Como recusar um desconto",
-          "url": "/pages/aprovacao-desconto/"
+          "page": "Como aceitar ou recusar um desconto",
+          "url": "/pages/aprovacao-desconto/como-aceitar-recusar-orcamento"
         }
       ]
     },
