@@ -616,48 +616,52 @@
       "title": "Caixa",
       "children": [
         {
+          "page": "Como acessar o caixa",
+          "url": "/pages/caixa/como-acessar-o-caixa"
+        },
+        {
           "page": "Como abrir o caixa",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-abrir-o-caixa"
         },
         {
           "page": "Como fechar o caixa",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fechar-o-caixa"
         },
         {
           "page": "Como fazer um retirada",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fazer-um-retirada"
         },
         {
           "page": "Como fazer um suprimento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fazer-um-suprimento"
         },
         {
           "page": "Onde verificar os valores recebidos",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/onde-verificar-os-valores-recebidos"
         },
         {
           "page": "Como fazer um recebimento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fazer-um-recebimento"
         },
         {
           "page": "Como rejeitar um plano",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-rejeitar-um-plano"
         },
         {
           "page": "Como efetivar um pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-efetivar-um-pagamento"
         },
         {
           "page": "Onde imprimir comprovante de pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/onde-imprimir-comprovante-de-pagamento"
         },
         {
           "page": "Como excluir uma forma de pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-excluir-uma-forma-de-pagamento"
         },
         {
           "page": "Com adicionar uma nova forma de pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-adicionar-uma-nova-forma-de-pagamento"
         }
       ]
     },
