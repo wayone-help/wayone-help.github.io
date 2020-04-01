@@ -21,7 +21,7 @@ Pesquise o Paciente pelo nome e selecione um
 O próximo passo é escolher a Fase do plano
 
 <div class="alert alert-info" role="alert">
-  Para criar novas fases basta ir no <a href="/pages/clinic/edit">Cadastro da Clínica e edita-la</a>
+  Para criar novas fases basta ir no <a href="/pages/clinica/editar-clinica">Cadastro da Clínica e edita-la</a>
 </div>
 
 <div class="text-center" style="margin-bottom: 20px;">
