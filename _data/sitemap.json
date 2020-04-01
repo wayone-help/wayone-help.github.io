@@ -620,6 +620,10 @@
           "url": "/pages/caixa/como-acessar-o-caixa"
         },
         {
+          "page": "Como pesquisar um paciente no caixa",
+          "url": "/pages/caixa/como-pesquisar-paciente-no-caixa"
+        },
+        {
           "page": "Como abrir o caixa",
           "url": "/pages/caixa/como-abrir-o-caixa"
         },
