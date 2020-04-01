@@ -46,7 +46,7 @@
           "url": "/pages/agenda/como-abrir-varias-agendas"
         },
         {
-          "page": "Como pesquisar por uma agenda",
+          "page": "Como pesquisar uma agenda",
           "url": "/pages/agenda/como-pesquisar-por-uma-agenda"
         },
         {
@@ -140,7 +140,7 @@
           "url": "/pages/prontuario/como-acessar-um-prontuario"
         },
         {
-          "page": "Como pesquisar por um prontuário",
+          "page": "Como pesquisar um prontuário",
           "url": "/pages/prontuario/como-pesquisar-por-um-prontuario"
         },
         {
@@ -157,7 +157,7 @@
           "url": "/pages/gestao-anamnese/o-que-e-uma-anamnese"
         },
         {
-          "page": "Como pesquisar por uma anamnese",
+          "page": "Como pesquisar uma anamnese",
           "url": "/pages/gestao-anamnese/como-pesquisar-uma-anamnese"
         },
         {
@@ -219,7 +219,7 @@
       "title": "clínica",
       "children": [
         {
-          "page": "Como pesquisar por uma clínica",
+          "page": "Como pesquisar uma clínica",
           "url": "/pages/clinica/como-pesquisar-uma-clinica"
         },
         {
@@ -334,7 +334,7 @@
           "url": "/pages/usuario/o-que-e-o-perfil-de-um-usuario"
         },
         {
-          "page": "Como pesquisar por um usuário",
+          "page": "Como pesquisar um usuário",
           "url": "/pages/usuario/como-pesquisar-por-um-usuario"
         },
         {
@@ -359,7 +359,7 @@
       "title": "Pacientes",
       "children": [
         {
-          "page": "Como pesquisar por um paciente",
+          "page": "Como pesquisar um paciente",
           "url": "/pages/paciente/como-pesquisar-por-um-paciente"
         },
         {
@@ -424,7 +424,7 @@
       "title": "Anamnese",
       "children": [
         {
-          "page": "Como pesquisar por uma anamnese (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma anamnese",
           "url": "/pages/anamnese/pesquisar-anamnese"
         },
         {
@@ -445,7 +445,7 @@
       "title": "Sala",
       "children": [
         {
-          "page": "Como pesquisar por uma sala (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma sala",
           "url": "/pages/sala/pesquisar-sala"
         },
         {
@@ -508,7 +508,7 @@
       "title": "Tipos de procedimento",
       "children": [
         {
-          "page": "Como pesquisar um tipo de procedimento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um tipo de procedimento",
           "url": "/pages/tipos-procedimentos/pesquisar-tipo"
         },
         {
@@ -566,8 +566,40 @@
       "title": "Orçamento",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Encontrar um Orçamento",
+          "url": "/pages/budget/search"
+        },
+        {
+          "page": "Alterar Tabela de Preço e conceder Descontos",
+          "url": "/pages/budget/discount"
+        },
+        {
+          "page": "Informar formas de pagamento para um Orçamento",
+          "url": "/pages/budget/payment-terms"
+        },
+        {
+          "page": "Editando procedimentos em um Orçamento",
+          "url": "/pages/budget/edit"
+        },
+        {
+          "page": "Gerar contrato de um Orçamento",
+          "url": "/pages/budget/contract"
+        },
+        {
+          "page": "Imprimir um Orçamento",
+          "url": "/pages/budget/print"
+        },
+        {
+          "page": "Enviando um Orçamento para Resgate",
+          "url": "/pages/budget/rescue"
+        },
+        {
+          "page": "Enviando um Orçamento para Pagamento",
+          "url": "/pages/budget/payment"
+        },
+        {
+          "page": "Rejeitar um Orçamento",
+          "url": "/pages/budget/reject"
         }
       ]
     },
@@ -575,7 +607,7 @@
       "title": "Aprovação de Desconto",
       "children": [
         {
-          "page": "Como pesquisar por orçamento",
+          "page": "Como pesquisar orçamento",
           "url": "/pages/aprovacao-desconto/como-pesquisar-um-orcamento"
         },
         {
