@@ -3,10 +3,10 @@ layout: page
 title: Orçamento - Enviando um Orçamento para Pagamento
 ---
 
-### TODO
+### Definição
 
-<b>Orçamento</b>
+Para enviar um <b>Orçamento</b> para pagamento basta seguir os passos abaixo:
 
 <div class="text-center" style="margin-bottom: 20px;">
-  <img alt="Imagem" src="/pages/budget/search/search-result.png" style="width: 90%;" />
+  <img alt="Imagem" src="/pages/budget/payment/send-payment.gif" style="width: 90%;" />
 </div>
