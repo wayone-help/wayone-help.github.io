@@ -596,7 +596,11 @@
         {
           "page": "Rejeitar um Orçamento",
           "url": "/pages/budget/reject"
-        }
+        },
+        {
+          "page": "Definindo os Agentes Comercial e de Resgate",
+          "url": "/pages/budget/agents"
+        },
       ]
     },
     {
