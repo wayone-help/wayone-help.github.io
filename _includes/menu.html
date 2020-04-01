@@ -20,10 +20,18 @@
       {% endfor %}
     {% endfor %}
 
-    let renderMenus = function(menuList, searchString="") {
-      let mainDiv = document.getElementsByClassName("sidebar-contents")[0]
+    let updateScroll = function(element) {
+      let parent = document.getElementsByClassName('sidebar-contents')
 
-      console.log({ currentPage })
+      if (element && parent && parent[0]) {
+        let height = parent[0].offsetHeight
+        parent[0].scrollTop = parseInt(element.offsetTop - (height / 2))
+      }
+    }
+
+    let renderMenus = function(menuList, searchString = '') {
+      let mainDiv = document.getElementsByClassName('sidebar-contents')[0],
+        activeElement = null
 
       if (menuList.length > 0) {
         let mapMenu = []
@@ -44,7 +52,7 @@
             menuDiv.appendChild(groupDiv)
 
             let childrenUl = document.createElement('ul')
-            childrenUl.className = "side-menu-group"
+            childrenUl.className = 'side-menu-group'
 
             for (let item of mapMenu[menu]) {
               let itemLi = document.createElement('li'),
@@ -53,7 +61,8 @@
               itemAnchor.href = item.url
 
               if (currentPage === item.url || currentPage === (item.url + '/')) {
-                itemLi.className = "active"
+                itemLi.className = 'active'
+                activeElement = itemLi
               }
               itemLi.appendChild(itemAnchor)
               childrenUl.appendChild(itemLi)
@@ -71,6 +80,8 @@
 
         mainDiv.appendChild(noResultDiv)
       }
+
+      updateScroll(activeElement)
     }
 
     let searchResult = allMenus
@@ -78,7 +89,7 @@
       renderMenus(allMenus)
     })
 
-    function findMatches(query, list) {
+    let findMatches = function(query, list) {
       if (query === '') {
         return list
       }
