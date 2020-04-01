@@ -239,75 +239,6 @@ legend {
 
 // Indicators ==================================================================
 
-.alert {
-  color: $white;
-
-  h1, h2, h3, h4, h5, h6 {
-    color: inherit;
-  }
-
-  a,
-  .alert-link {
-    color: $white;
-  }
-
-  &-primary {
-    &, > th, > td {
-      background-color: $primary;
-    }
-  }
-
-  &-secondary {
-    &, > th, > td {
-      background-color: $secondary;
-    }
-  }
-
-  &-success {
-    &, > th, > td {
-      background-color: $success;
-    }
-  }
-
-  &-info {
-    &, > th, > td {
-      background-color: $info;
-    }
-  }
-
-  &-danger {
-    &, > th, > td {
-      background-color: $danger;
-    }
-  }
-
-  &-warning {
-    &, > th, > td {
-      background-color: $warning;
-    }
-  }
-
-  &-dark {
-    &, > th, > td {
-      background-color: $dark;
-    }
-  }
-
-  &-light {
-    &, > th, > td {
-      background-color: $light;
-    }
-  }
-
-  &-light {
-    &,
-    & a:not(.btn),
-    & .alert-link {
-      color: $body-color;
-    }
-  }
-}
-
 .badge {
   color: $white;
 
@@ -450,4 +381,15 @@ html ::-webkit-scrollbar-thumb:hover {
   0% { transform: scaley(1.0) }
   50% { transform: scaley(0.4) }
   100% { transform: scaley(1.0) }
+}
+kbd {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.1em 0.5em;
+  margin: 0 0.2em;
+  box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
+  background-color: #f7f7f7;
+  font-size: 14px;
+  color: #666;
 }

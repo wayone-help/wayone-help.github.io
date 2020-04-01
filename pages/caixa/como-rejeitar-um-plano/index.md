@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paciente - Como cadastrar um responsável financeiro
+title: Caixa - Como rejeitar um plano
 ---
 
 ### Definição

@@ -46,7 +46,7 @@
           "url": "/pages/agenda/como-abrir-varias-agendas"
         },
         {
-          "page": "Como pesquisar por uma agenda",
+          "page": "Como pesquisar uma agenda",
           "url": "/pages/agenda/como-pesquisar-por-uma-agenda"
         },
         {
@@ -140,7 +140,7 @@
           "url": "/pages/prontuario/como-acessar-um-prontuario"
         },
         {
-          "page": "Como pesquisar por um prontuário",
+          "page": "Como pesquisar um prontuário",
           "url": "/pages/prontuario/como-pesquisar-por-um-prontuario"
         },
         {
@@ -157,7 +157,7 @@
           "url": "/pages/gestao-anamnese/o-que-e-uma-anamnese"
         },
         {
-          "page": "Como pesquisar por uma anamnese",
+          "page": "Como pesquisar uma anamnese",
           "url": "/pages/gestao-anamnese/como-pesquisar-uma-anamnese"
         },
         {
@@ -219,7 +219,7 @@
       "title": "clínica",
       "children": [
         {
-          "page": "Como pesquisar por uma clínica",
+          "page": "Como pesquisar uma clínica",
           "url": "/pages/clinica/como-pesquisar-uma-clinica"
         },
         {
@@ -280,7 +280,7 @@
       "title": "Modelo de documento",
       "children": [
         {
-          "page": "Como pesquisar por um modelo de documento",
+          "page": "Como pesquisar um modelo de documento",
           "url": "/pages/modelo-documento/como-pesquisar-um-modelo"
         },
         {
@@ -309,7 +309,7 @@
           "url": "/pages/perfil/o-que-e-um-perfil"
         },
         {
-          "page": "Como pesquisar por um perfil",
+          "page": "Como pesquisar um perfil",
           "url": "/pages/perfil/como-pesquisar-por-um-perfil"
         },
         {
@@ -334,7 +334,7 @@
           "url": "/pages/usuario/o-que-e-o-perfil-de-um-usuario"
         },
         {
-          "page": "Como pesquisar por um usuário",
+          "page": "Como pesquisar um usuário",
           "url": "/pages/usuario/como-pesquisar-por-um-usuario"
         },
         {
@@ -359,7 +359,7 @@
       "title": "Pacientes",
       "children": [
         {
-          "page": "Como pesquisar por um paciente",
+          "page": "Como pesquisar um paciente",
           "url": "/pages/paciente/como-pesquisar-por-um-paciente"
         },
         {
@@ -387,16 +387,12 @@
           "url": "/pages/paciente/o-que-e-a-area-do-paciente"
         },
         {
-          "page": "Para que serve o campo de anamnese no cadastro de paciente",
-          "url": "/pages/paciente/para-que-serve-o-campo-de-anamnese-no-cadastro-de-paciente"
-        },
-        {
           "page": "O que é um responsável financeiro",
           "url": "/pages/paciente/o-que-e-um-responsavel-financeiro"
         },
         {
           "page": "Como cadastrar um responsável financeiro",
-          "url": "/pages/paciente/como-cadastrar-um-responsavel-financeiro "
+          "url": "/pages/paciente/como-cadastrar-um-responsavel-financeiro"
         },
         {
           "page": "Como remover um responsável financeiro vinculado a um paciente",
@@ -415,7 +411,7 @@
           "url": "/pages/paciente/como-adicionar-remover-uma-restricao-de-um-paciente"
         },
         {
-          "page": "Como saber quem criou e/ou editou o cadastro de um paciente",
+          "page": "Como saber quem criou e/ou editou o cadastro de um paciente - Auditoria",
           "url": "/pages/paciente/como-saber-quem-criou-editou-o-cadastro-de-um-paciente"
         }
       ]
@@ -424,7 +420,7 @@
       "title": "Anamnese",
       "children": [
         {
-          "page": "Como pesquisar por uma anamnese (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma anamnese",
           "url": "/pages/anamnese/pesquisar-anamnese"
         },
         {
@@ -445,7 +441,7 @@
       "title": "Sala",
       "children": [
         {
-          "page": "Como pesquisar por uma sala (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar uma sala",
           "url": "/pages/sala/pesquisar-sala"
         },
         {
@@ -466,24 +462,20 @@
       "title": "Tabelas de preço",
       "children": [
         {
-          "page": "Pra que serve uma tabela de preço?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
-        },
-        {
-          "page": "O que é uma tabela de preço configurada como padrão?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar uma tabela de preço",
+          "url": "/pages/tabelas-de-preco/como-pesquisar-por-uma-tabela-de-preco"
         },
         {
           "page": "Como adicionar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco"
         },
         {
           "page": "Como editar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco"
         },
         {
           "page": "Como duplicar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-duplicar-uma-tabela-de-preco"
         }
       ]
     },
@@ -491,7 +483,7 @@
       "title": "Procedimento",
       "children": [
         {
-          "page": "Como pesquisar por um procedimento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um procedimento",
           "url": "/pages/procedimento/pesquisar-procedimento"
         },
         {
@@ -512,7 +504,7 @@
       "title": "Tipos de procedimento",
       "children": [
         {
-          "page": "Como pesquisar por um tipo de procedimento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um tipo de procedimento",
           "url": "/pages/tipos-procedimentos/pesquisar-tipo"
         },
         {
@@ -529,8 +521,40 @@
       "title": "Plano de Tratamento",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Encontrar um Plano de Tratamento",
+          "url": "/pages/planning/search"
+        },
+        {
+          "page": "Criar um novo Plano de Tratamento",
+          "url": "/pages/planning/create"
+        },
+        {
+          "page": "Criando um novo Plano de Tratamento",
+          "url": "/pages/planning/creating"
+        },
+        {
+          "page": "Trocar o tipo de Odontograma de um Plano de Tratamento",
+          "url": "/pages/planning/odontogram-change"
+        },
+        {
+          "page": "Duplicar um Plano de Tratamento",
+          "url": "/pages/planning/duplicate"
+        },
+        {
+          "page": "Imprimir um Plano de Tratamento",
+          "url": "/pages/planning/print"
+        },
+        {
+          "page": "Enviando um Plano de Tratamento para orçamento",
+          "url": "/pages/planning/budget"
+        },
+        {
+          "page": "Não consigo criar novo um Plano de Tratamento, por que?",
+          "url": "/pages/planning/error-create"
+        },
+        {
+          "page": "Não consigo editar um Plano de Tratamento, por que?",
+          "url": "/pages/planning/error-edit"
         }
       ]
     },
@@ -538,8 +562,40 @@
       "title": "Orçamento",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Encontrar um Orçamento",
+          "url": "/pages/budget/search"
+        },
+        {
+          "page": "Alterar Tabela de Preço e conceder Descontos",
+          "url": "/pages/budget/discount"
+        },
+        {
+          "page": "Informar formas de pagamento para um Orçamento",
+          "url": "/pages/budget/payment-terms"
+        },
+        {
+          "page": "Editando procedimentos em um Orçamento",
+          "url": "/pages/budget/edit"
+        },
+        {
+          "page": "Gerar contrato de um Orçamento",
+          "url": "/pages/budget/contract"
+        },
+        {
+          "page": "Imprimir um Orçamento",
+          "url": "/pages/budget/print"
+        },
+        {
+          "page": "Enviando um Orçamento para Resgate",
+          "url": "/pages/budget/rescue"
+        },
+        {
+          "page": "Enviando um Orçamento para Pagamento",
+          "url": "/pages/budget/payment"
+        },
+        {
+          "page": "Rejeitar um Orçamento",
+          "url": "/pages/budget/reject"
         }
       ]
     },
@@ -547,16 +603,12 @@
       "title": "Aprovação de Desconto",
       "children": [
         {
-          "page": "Como pesquisar por orçamento",
-          "url": "/pages/aprovacao-desconto/"
+          "page": "Como pesquisar orçamento",
+          "url": "/pages/aprovacao-desconto/como-pesquisar-um-orcamento"
         },
         {
-          "page": "Como aceitar um desconto",
-          "url": "/pages/aprovacao-desconto/"
-        },
-        {
-          "page": "Como recusar um desconto",
-          "url": "/pages/aprovacao-desconto/"
+          "page": "Como aceitar ou recusar um desconto",
+          "url": "/pages/aprovacao-desconto/como-aceitar-recusar-orcamento"
         }
       ]
     },
@@ -564,48 +616,52 @@
       "title": "Caixa",
       "children": [
         {
+          "page": "Como acessar o caixa",
+          "url": "/pages/caixa/como-acessar-o-caixa"
+        },
+        {
           "page": "Como abrir o caixa",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-abrir-o-caixa"
         },
         {
           "page": "Como fechar o caixa",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fechar-o-caixa"
         },
         {
           "page": "Como fazer um retirada",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fazer-um-retirada"
         },
         {
           "page": "Como fazer um suprimento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fazer-um-suprimento"
         },
         {
           "page": "Onde verificar os valores recebidos",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/onde-verificar-os-valores-recebidos"
         },
         {
           "page": "Como fazer um recebimento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-fazer-um-recebimento"
         },
         {
           "page": "Como rejeitar um plano",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-rejeitar-um-plano"
         },
         {
           "page": "Como efetivar um pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-efetivar-um-pagamento"
         },
         {
           "page": "Onde imprimir comprovante de pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/onde-imprimir-comprovante-de-pagamento"
         },
         {
           "page": "Como excluir uma forma de pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-excluir-uma-forma-de-pagamento"
         },
         {
           "page": "Com adicionar uma nova forma de pagamento",
-          "url": "/pages/caixa/"
+          "url": "/pages/caixa/como-adicionar-uma-nova-forma-de-pagamento"
         }
       ]
     },
@@ -613,16 +669,26 @@
       "title": "Roteiro",
       "children": [
         {
+<<<<<<< HEAD
           "page": "Como pesquisar por um roteiro",
           "url": "/pages/roteiro/pesquisar-roteiro"
+=======
+          "page": "Como pesquisar um roteiro",
+          "url": "/pages/roteiro/"
+>>>>>>> 49e80e86d75c9ea499ca12e498d47f491ebe039d
         },
         {
           "page": "Como editar um roteiro",
           "url": "/pages/roteiro/editar-roteiro"
         },
         {
+<<<<<<< HEAD
           "page": "Com enviar um e-mail para o paciente com o roteiro",
           "url": "/pages/roteiro/enviar-email-para-paciente-com-roteiro"
+=======
+          "page": "Como enviar um email para o paciente",
+          "url": "/pages/roteiro/"
+>>>>>>> 49e80e86d75c9ea499ca12e498d47f491ebe039d
         }
       ]
     }

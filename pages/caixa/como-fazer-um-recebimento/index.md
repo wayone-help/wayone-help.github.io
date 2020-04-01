@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paciente - Para que serve o campo de anamnese no cadastro de paciente
+title: Caixa - Como fazer um recebimento
 ---
 
 ### Definição
