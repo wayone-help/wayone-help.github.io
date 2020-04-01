@@ -280,7 +280,7 @@
       "title": "Modelo de documento",
       "children": [
         {
-          "page": "Como pesquisar por um modelo de documento",
+          "page": "Como pesquisar um modelo de documento",
           "url": "/pages/modelo-documento/como-pesquisar-um-modelo"
         },
         {
@@ -309,7 +309,7 @@
           "url": "/pages/perfil/o-que-e-um-perfil"
         },
         {
-          "page": "Como pesquisar por um perfil",
+          "page": "Como pesquisar um perfil",
           "url": "/pages/perfil/como-pesquisar-por-um-perfil"
         },
         {
@@ -466,24 +466,20 @@
       "title": "Tabelas de preço",
       "children": [
         {
-          "page": "Pra que serve uma tabela de preço?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
-        },
-        {
-          "page": "O que é uma tabela de preço configurada como padrão?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar uma tabela de preço",
+          "url": "/pages/tabelas-de-preco/como-pesquisar-por-uma-tabela-de-preco"
         },
         {
           "page": "Como adicionar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco"
         },
         {
           "page": "Como editar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco"
         },
         {
           "page": "Como duplicar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-duplicar-uma-tabela-de-preco"
         }
       ]
     },
@@ -491,7 +487,7 @@
       "title": "Procedimento",
       "children": [
         {
-          "page": "Como pesquisar por um procedimento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um procedimento",
           "url": "/pages/procedimento/pesquisar-procedimento"
         },
         {
@@ -512,7 +508,7 @@
       "title": "Tipos de procedimento",
       "children": [
         {
-          "page": "Como pesquisar por um tipo de procedimento (explicar busca, paginação, e como limpar a busca)",
+          "page": "Como pesquisar um tipo de procedimento (explicar busca, paginação, e como limpar a busca)",
           "url": "/pages/tipos-procedimentos/pesquisar-tipo"
         },
         {
@@ -529,8 +525,40 @@
       "title": "Plano de Tratamento",
       "children": [
         {
-          "page": "Como pesquisar por um usuário (explicar busca, paginação, e como limpar a busca)",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Encontrar um Plano de Tratamento",
+          "url": "/pages/planning/search"
+        },
+        {
+          "page": "Criar um novo Plano de Tratamento",
+          "url": "/pages/planning/create"
+        },
+        {
+          "page": "Criando um novo Plano de Tratamento",
+          "url": "/pages/planning/creating"
+        },
+        {
+          "page": "Trocar o tipo de Odontograma de um Plano de Tratamento",
+          "url": "/pages/planning/odontogram-change"
+        },
+        {
+          "page": "Duplicar um Plano de Tratamento",
+          "url": "/pages/planning/duplicate"
+        },
+        {
+          "page": "Imprimir um Plano de Tratamento",
+          "url": "/pages/planning/print"
+        },
+        {
+          "page": "Enviando um Plano de Tratamento para orçamento",
+          "url": "/pages/planning/budget"
+        },
+        {
+          "page": "Não consigo criar novo um Plano de Tratamento, por que?",
+          "url": "/pages/planning/error-create"
+        },
+        {
+          "page": "Não consigo editar um Plano de Tratamento, por que?",
+          "url": "/pages/planning/error-edit"
         }
       ]
     },
@@ -548,15 +576,11 @@
       "children": [
         {
           "page": "Como pesquisar por orçamento",
-          "url": "/pages/aprovacao-desconto/"
+          "url": "/pages/aprovacao-desconto/como-pesquisar-um-orcamento"
         },
         {
-          "page": "Como aceitar um desconto",
-          "url": "/pages/aprovacao-desconto/"
-        },
-        {
-          "page": "Como recusar um desconto",
-          "url": "/pages/aprovacao-desconto/"
+          "page": "Como aceitar ou recusar um desconto",
+          "url": "/pages/aprovacao-desconto/como-aceitar-recusar-orcamento"
         }
       ]
     },
@@ -613,7 +637,7 @@
       "title": "Roteiro",
       "children": [
         {
-          "page": "Como pesquisar por um roteiro",
+          "page": "Como pesquisar um roteiro",
           "url": "/pages/roteiro/"
         },
         {
@@ -621,7 +645,7 @@
           "url": "/pages/roteiro/"
         },
         {
-          "page": "Com enviar um e-mail para o paciente com o roteiro",
+          "page": "Como enviar um email para o paciente",
           "url": "/pages/roteiro/"
         }
       ]

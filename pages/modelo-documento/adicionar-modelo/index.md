@@ -15,15 +15,15 @@ Clique no ícone **+** localizado na parte superior direita da lista
 
 Será mostrado na tela os campos para gerar o novo modelo
 
-⋅⋅* Nome do modelo: Para identificação, por exemplo, **"modelo de contrato PF"**, **"modelo de contrato PJ"**
+- Nome do modelo: Para identificação, por exemplo, **"modelo de contrato PF"**, **"modelo de contrato PJ"**
 
-⋅⋅*  Tipo de Modelo: O tipo que definirá as opções do **campo ("Selecione um campo", que fica dentro do editor)**, se tiver dúvidas [clique aqui](/pages/modelo-documento/tipos-de-modelo)
+-  Tipo de Modelo: O tipo que definirá as opções do **campo ("Selecione um campo", que fica dentro do editor)**, se tiver dúvidas [clique aqui](/pages/modelo-documento/tipos-de-modelo)
 
-⋅⋅* Selecione um campo: A partir do **tipo de modelo** selecionado é que será listado as opções deste campo, se tiver dúvidas [clique aqui](/pages/modelo-documento/campos-modelo)
+- Selecione um campo: A partir do **tipo de modelo** selecionado é que será listado as opções deste campo, se tiver dúvidas [clique aqui](/pages/modelo-documento/campos-modelo)
 
 **Obs. Não pode misturar campos que pertençam a tipos de modelos diferentes**
 
-⋅⋅* Editor: É aqui que realmente será criado o modelo
+- Editor: É aqui que realmente será criado o modelo
 
 <p align="center">
   <img alt="Tipos de agendamento" src="/pages/modelo-documento/adicionar-modelo/campos_modelo.png" width="800">

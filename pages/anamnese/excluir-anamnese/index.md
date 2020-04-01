@@ -23,5 +23,5 @@ Sera solicitada a confirmação para excluir.
   <img alt="excluir-anamnese-img-3" src="excluir-anamnese-img-3.png" width="800">
 </p>
 
-Clique no botão **Sim** para confirmar a duplicação da anamnese.
+Clique no botão **Sim** para confirmar a exclusão da anamnese.
 

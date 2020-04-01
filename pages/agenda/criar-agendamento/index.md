@@ -15,23 +15,23 @@ Será usado neste tutorial imagens do **tipo de agendamento clínico**, pois ele
 
 Conforme mostra nas imagens abaixo, veremos os seguintes campos:
 
-⋅⋅* Agenda: Campo que mostra para qual agenda será destinado este novo agendamento. **Obs: Não é possível transferir um agendamento de um fluxo para outro, ou seja, se você iniciar um novo agendamento por uma agenda clínica, só será listado neste campo agendas clínicas**
+- Agenda: Campo que mostra para qual agenda será destinado este novo agendamento. **Obs: Não é possível transferir um agendamento de um fluxo para outro, ou seja, se você iniciar um novo agendamento por uma agenda clínica, só será listado neste campo agendas clínicas**
 
-⋅⋅* Paciente: O paciente do atendimento
+- Paciente: O paciente do atendimento
 
-⋅⋅*  Data da consulta
+-  Data da consulta
 
-⋅⋅* Hora inicial / Minuto inicial / Hora final / Minuto inicial
+- Hora inicial / Minuto inicial / Hora final / Minuto inicial
 
-⋅⋅* Status: Identifica a situação atual do agendamento, por exemplo, o **status confirmado** significa que o paciente **confirmou presença**, o **status aguardando** significa que o paciente já **chegou na clínica**...
+- Status: Identifica a situação atual do agendamento, por exemplo, o **status confirmado** significa que o paciente **confirmou presença**, o **status aguardando** significa que o paciente já **chegou na clínica**...
 
-⋅⋅* Operador: Caso tenha alguém que auxiliará neste atendimento, preencha aqui
+- Operador: Caso tenha alguém que auxiliará neste atendimento, preencha aqui
 
-⋅⋅* Sala: Se quiser informar a sala onde ocorrerá o atendimento
+- Sala: Se quiser informar a sala onde ocorrerá o atendimento
 
-⋅⋅* Tipo: Este campo é para saber se é uma nova consulta, um retorno ou um compromisso (caso queira ocupar este espaço na agenda)
+- Tipo: Este campo é para saber se é uma nova consulta, um retorno ou um compromisso (caso queira ocupar este espaço na agenda)
 
-⋅⋅* Observação: Uma descrição que possa ser importante para ser verificada pelas pessoas relacionadas a este atendimento
+- Observação: Uma descrição que possa ser importante para ser verificada pelas pessoas relacionadas a este atendimento
 
 <p align="center">
   <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/agendamento_campos_1.png" width="800">
