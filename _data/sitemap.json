@@ -640,7 +640,7 @@
           "url": "/pages/caixa/como-fazer-um-suprimento"
         },
         {
-          "page": "Onde verificar os valores recebidos",
+          "page": "Onde verificar os valores recebidos - Totalizadores",
           "url": "/pages/caixa/onde-verificar-os-valores-recebidos"
         },
         {
@@ -673,16 +673,16 @@
       "title": "Roteiro",
       "children": [
         {
-          "page": "Como pesquisar um roteiro",
-          "url": "/pages/roteiro/"
+          "page": "Como pesquisar por um roteiro",
+          "url": "/pages/roteiro/pesquisar-roteiro"
         },
         {
           "page": "Como editar um roteiro",
-          "url": "/pages/roteiro/"
+          "url": "/pages/roteiro/editar-roteiro"
         },
         {
-          "page": "Como enviar um email para o paciente",
-          "url": "/pages/roteiro/"
+          "page": "Com enviar um e-mail para o paciente com o roteiro",
+          "url": "/pages/roteiro/enviar-email-para-paciente-com-roteiro"
         }
       ]
     }
