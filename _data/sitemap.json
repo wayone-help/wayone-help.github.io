@@ -466,24 +466,20 @@
       "title": "Tabelas de preço",
       "children": [
         {
-          "page": "Pra que serve uma tabela de preço?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
-        },
-        {
-          "page": "O que é uma tabela de preço configurada como padrão?",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "page": "Como pesquisar por uma tabela de preço",
+          "url": "/pages/tabelas-de-preco/como-pesquisar-por-uma-tabela-de-preco"
         },
         {
           "page": "Como adicionar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco"
         },
         {
           "page": "Como editar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco"
         },
         {
           "page": "Como duplicar uma tabela de preço",
-          "url": "/pages/cadastro-clinica/alterando-cor"
+          "url": "/pages/tabelas-de-preco/como-duplicar-uma-tabela-de-preco"
         }
       ]
     },
