@@ -3,7 +3,32 @@ layout: page
 title: Orçamento - Encontrar um Orçamento
 ---
 
+
 ### Definição
+
+Um Orçamento no Wayone possui as seguintes situações
+
+* **Em edição**: Indica que o orçamento está em edição
+
+* **Revisão**: indica que o plano de tratamento está em revisão
+
+* **Resgatado**: Indica que o orçamento foi resgatado
+
+* **Aguardando resgate**: Indica que o orçamento está esperando para ser resgatado
+
+* **Avaliando Desconto**: indica que o supervisor do comercial está avaliando o desconto dado no orçamento
+
+* **Desconto Negado**: indica que o supervisor do comercial negou o desconto concedido
+
+* **Aceito**: indica que o orçamento foi aceito pelo Paciente
+
+* **Aprovado**: indica que financeiro aprovou
+
+* **Cancelado**: indica que o plano foi cancelado pelo financeiro
+
+* **Reprovado**: indica que financeiro recusou
+
+### Pesquisando Orçamentos
 
 Primeiramente acesse o Menu <b>Orçamento</b>
 
