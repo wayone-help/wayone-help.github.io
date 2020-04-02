@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agenda - Como buscar por um determinado agendamento
+title: Agenda - Como excluir um agendamento
 ---
 
 ### Definição
