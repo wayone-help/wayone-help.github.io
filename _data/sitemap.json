@@ -508,10 +508,6 @@
           "url": "/pages/tipos-procedimentos/pesquisar-tipo"
         },
         {
-          "page": "O que é a coluna de código SAP?",
-          "url": "/pages/tipos-procedimentos/codigo-sap"
-        },
-        {
           "page": "Como editar um tipo de procedimento",
           "url": "/pages/tipos-procedimentos/editar-tipo"
         }
