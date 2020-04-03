@@ -216,7 +216,7 @@
       ]
     },
     {
-      "title": "clínica",
+      "title": "Clínica",
       "children": [
         {
           "page": "Como pesquisar uma clínica",
@@ -596,7 +596,7 @@
         {
           "page": "Definindo os Agentes Comercial e de Resgate",
           "url": "/pages/budget/agents"
-        },
+        }
       ]
     },
     {
@@ -618,6 +618,10 @@
         {
           "page": "Como acessar o caixa",
           "url": "/pages/caixa/como-acessar-o-caixa"
+        },
+        {
+          "page": "Como pesquisar um paciente no caixa",
+          "url": "/pages/caixa/como-pesquisar-paciente-no-caixa"
         },
         {
           "page": "Como abrir o caixa",
