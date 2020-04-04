@@ -6,14 +6,16 @@ title: Paciente - Como adicionar um paciente
 ### Definição
 
 Navegue no **menu lateral** e clique sobre **Pacientes**
-<p align="center">
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-01.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-01.png" style="width: 90%;">
+</div>
 
 Na parte superior da tela, do lado direito, clique no **ícone adicionar** para abrir o formulário.
-<p align="center">
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-02.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-02.png" style="width: 90%;">
+</div>
 
 
 Formulário do cadastro de paciente, onde temos algumas informações obrigatórias.
@@ -22,25 +24,29 @@ Formulário do cadastro de paciente, onde temos algumas informações obrigatór
 * Data de Nascimento
 * E-mail ou Contatos(Caso o responsável financeiro não seja informado)
 * Dados do endereço
-<p align="center">
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-03.png" width="800">
-</p>
 
-<p align="center">
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-04.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-03.png" style="width: 90%;">
+</div>
+
+<div class="text-center"> 
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-04.png" style="width: 90%;">
+</div>
 
 Cadastrando um novo paciente.
-<p align="center">
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-05.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-05.png" style="width: 90%;">
+</div>
 
 Com todos os dados obrigatórios informados, basta clicar no botão **SALVAR**
-<p align="center">
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-06.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-06.png" style="width: 90%;">
+</div>
 
 O novo cadastro na lista de pacientes.
-<p align="center">
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-07.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-07.png" style="width: 90%;">
+</div>

@@ -11,30 +11,30 @@ Se tiver dúvidas sobre como acessar a edição de clínica, [clique aqui](/page
 
 Procure na edição da clínica a lista de **Restrições de Atendimento**. 
 
-<p align="center">
-  <img alt="lista de clínicas" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/restricoes_lista.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="lista de clínicas" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/restricoes_lista.png" style="width: 90%;">
+</div>
 
 Para adicionar uma nova restrição clique no ícone **+** localizado no canto superior direito da lista.
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/restricoes_lista_adicionar.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/restricoes_lista_adicionar.png" style="width: 90%;">
+</div>
 
 Será aberto uma popup para preencher o nome da restrição, preencha e clique no botão **adicionar**
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/adicionar_restricao.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/adicionar_restricao.png" style="width: 90%;">
+</div>
 
 **Por padrão a restrição nova fica desabilitada**, caso queira habilitar ou desabilitar **clique no botão**
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/restricoes_lista_toggle_habilitar.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/restricoes_lista_toggle_habilitar.png" style="width: 90%;">
+</div>
 
 Após concluir, clique no botão **salvar**, no final da página de edição da clínica
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/salvar_edicao_clinica.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/clinica/como-adicionar-remover-restricao-para-atendimento/salvar_edicao_clinica.png" style="width: 90%;">
+</div>

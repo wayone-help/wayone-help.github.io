@@ -11,12 +11,12 @@ Ao efetivar o pagamento, o sistema irá fazer a comunicação com o sistema Busi
 enviando informações referente a pagamentos.
 
 **Clique** no botão **EFETIVAR PAGAMENTO**
-<p align="center">
-  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-01.png" style="width: 90%;">
+</div>
 
 Confirme se deseja efetivar o pagamento.
-<p align="center">
-  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-02.png" style="width: 90%;">
+</div>
 

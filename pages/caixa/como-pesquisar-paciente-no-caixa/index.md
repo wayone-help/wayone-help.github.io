@@ -7,11 +7,11 @@ title: Caixa - Como pesquisar um paciente no caixa
 
 
 Pesquise o paciente através do **Nome**, **CPF** ou **Número do contrato**.
-<p align="center">
-  <img alt="Pesquisa de paciente no caixa" src="como-pesquisar-paciente-no-caixa-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Pesquisa de paciente no caixa" src="como-pesquisar-paciente-no-caixa-img-01.png" style="width: 90%;">
+</div>
 
 Pesquisando pelo nome do paciente. Será retornado uma lista referente a pesquisa, selecione o paciente.
-<p align="center">
-  <img alt="Pesquisa de paciente no caixa" src="como-pesquisar-paciente-no-caixa-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Pesquisa de paciente no caixa" src="como-pesquisar-paciente-no-caixa-img-02.png" style="width: 90%;">
+</div>

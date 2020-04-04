@@ -9,20 +9,20 @@ Para aceitar ou recusar um desconto é necessário acessar a lista de **Aprovaç
 
 Encontre o orçamento que deseja na lista e clique no ícone do **lápis**
 
-<p align="center">
-  <img alt="lista de clínicas" src="/pages/aprovacao-desconto/como-aceitar-recusar-orcamento/orcamento_editar.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="lista de clínicas" src="/pages/aprovacao-desconto/como-aceitar-recusar-orcamento/orcamento_editar.png" style="width: 90%;">
+</div>
 
 Será mostrado a tela com as informações do orçamento, observe que na parte superior do lado direito aparece a **situação de "Avaliando Desconto"**
 
 Na parte inferior do lado direito aparece duas opções: **RECUSAR** e **ACEITAR**, clique conforme desejar
 
-<p align="center">
-  <img alt="lista de clínicas" src="/pages/aprovacao-desconto/como-aceitar-recusar-orcamento/orcamento_edicao.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="lista de clínicas" src="/pages/aprovacao-desconto/como-aceitar-recusar-orcamento/orcamento_edicao.png" style="width: 90%;">
+</div>
 
 Aparecerá uma popup para confirmar, clique em **sim**
 
-<p align="center">
-  <img alt="lista de clínicas" src="/pages/aprovacao-desconto/como-aceitar-recusar-orcamento/confirmar_desconto.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="lista de clínicas" src="/pages/aprovacao-desconto/como-aceitar-recusar-orcamento/confirmar_desconto.png" style="width: 90%;">
+</div>

@@ -7,9 +7,9 @@ title: Agenda - Criar agendamento
 
 Ao acessar a agenda, no centro dela existe uma área com intervalos de horário, basta clicar próximo ao horário desejado que será aberto uma popup para preencher os campos. Nesta popup você poderá ajustar a hora e os minutos de forma mais precisa.
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/selecionar_horario_agenda.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/selecionar_horario_agenda.png" style="width: 90%;">
+</div>
 
 Será usado neste tutorial imagens do **tipo de agendamento clínico**, pois ele é o mais completo, a diferença dele para com os outros é que, nos outros têm menos campos. Se tiver dúvidas sobre os **tipos de agendamento**, [clique aqui](/pages/agenda/tipos-agendamento).
 
@@ -33,22 +33,22 @@ Conforme mostra nas imagens abaixo, veremos os seguintes campos:
 
 - Observação: Uma descrição que possa ser importante para ser verificada pelas pessoas relacionadas a este atendimento
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/agendamento_campos_1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/agendamento_campos_1.png" style="width: 90%;">
+</div>
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/agendamento_campos_2.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/agendamento_campos_2.png" style="width: 90%;">
+</div>
 
 Após preencher os campos, basta clicar no botão **salvar**, e o agendamento aparecerá na lista de horários
 
 **Obs: Toda vez que um campo é alterado ocorre uma validação para saber se pode ser salvo os dados na condição que você informou. Isto é para evitar conflitos como por exemplo ter o mesmo paciente sendo atendido ao mesmo tempo por pessoas diferentes, ou algum funcionário estar em dois locais ao mesmo tempo, caso isso ocorrer, será emitido um aviso na tela, e o botão salvar ficará desabilitado**
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/salvar_agendamento.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/salvar_agendamento.png" style="width: 90%;">
+</div>
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/agendamento_salvo.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/criar-agendamento/agendamento_salvo.png" style="width: 90%;">
+</div>

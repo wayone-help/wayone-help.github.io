@@ -7,15 +7,15 @@ title: Sala - Como excluir uma sala
 
 Para excluir uma sala clique sobre o **ícone lixeira** localizado na coluna de ações da tabela.
 
-<p align="center">
-  <img alt="excluir-sala-img-1" src="excluir-sala-img-1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-sala-img-1" src="excluir-sala-img-1.png" style="width: 90%;">
+</div>
 
 Sera solicitada a confirmação da exclusão.
 
-<p align="center">
-  <img alt="excluir-sala-img-2" src="excluir-sala-img-2.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-sala-img-2" src="excluir-sala-img-2.png" style="width: 90%;">
+</div>
 
 Clique no botão **Sim** para confirmar a exclusão da sala.
 

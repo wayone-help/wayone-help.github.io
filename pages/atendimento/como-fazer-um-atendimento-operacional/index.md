@@ -9,8 +9,8 @@ Caso tenha dúvidas de como iniciar um atendimento operacional, [clique aqui](/p
 
 
 Descreva o atendimento que foi feito e **clique** no botão **FINALIZAR ATENDIMENTO** 
-<p align="center">
-  <img alt="Atendimento operacional" src="como-fazer-um-atendimento-operacional-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Atendimento operacional" src="como-fazer-um-atendimento-operacional-img-01.png" style="width: 90%;">
+</div>
 
 

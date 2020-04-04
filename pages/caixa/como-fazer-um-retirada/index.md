@@ -9,11 +9,11 @@ title: Caixa - Como fazer um retirada
 
 
 Na **Aba CAIXA** terá o botão **RETIRADA**. Ao **clicar** será visível uma tela.
-<p align="center">
-  <img alt="Retirada caixa" src="como-fazer-um-retirada-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Retirada caixa" src="como-fazer-um-retirada-img-01.png" style="width: 90%;">
+</div>
 
 **Informe** o **valor da retirada** e uma observação sobre a retirada.
-<p align="center">
-  <img alt="Retirada caixa" src="como-fazer-um-retirada-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Retirada caixa" src="como-fazer-um-retirada-img-02.png" style="width: 90%;">
+</div>

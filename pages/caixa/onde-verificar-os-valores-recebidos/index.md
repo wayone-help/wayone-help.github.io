@@ -9,6 +9,6 @@ title: Caixa - Onde verificar os valores recebidos - Totalizadores
 
 
 Na **Aba CAIXA** terá os totalizadores referente a **recebimentos**, **retirada**, **suprimento** e **troco inicial**.
-<p align="center">
-  <img alt="Valores do caixa" src="onde-verificar-os-valores-recebidos-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Valores do caixa" src="onde-verificar-os-valores-recebidos-img-01.png" style="width: 90%;">
+</div>

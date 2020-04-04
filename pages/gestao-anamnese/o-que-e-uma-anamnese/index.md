@@ -9,7 +9,7 @@ Anamnese pode ser descrita como uma espécie de **entrevista com o paciente**, u
 
 Para acessar a anamnese de um paciente, é só clicar no menu lateral esquerdo, na opção **Gestão de Anamnese**
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/gestao-anamnese/o-que-e-uma-anamnese/lista_anamnese.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/gestao-anamnese/o-que-e-uma-anamnese/lista_anamnese.png" style="width: 90%;">
+</div>
 

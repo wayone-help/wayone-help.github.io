@@ -9,32 +9,32 @@ title: Caixa - Com adicionar uma nova forma de pagamento
 
 
 **Clique** sobre o botão **NOVO PAGAMENTO**
-<p align="center">
-  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-01.png" style="width: 90%;">
+</div>
 
 Informe o **Meio de pagamento**
-<p align="center">
-  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-02.png" style="width: 90%;">
+</div>
 
 **Meios de pagamentos** disponíveis.
-<p align="center">
-  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-03.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-03.png" style="width: 90%;">
+</div>
 
 Ao selecionar o **Meio de pagamento**, clique no botão **Adicionar**
-<p align="center">
-  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-04.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-04.png" style="width: 90%;">
+</div>
 
 
-<p align="center">
-  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-05.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-05.png" style="width: 90%;">
+</div>
 
 Informe a **data de vencimento** e o **valor** do pagamento. Confirme a nova forma de pagamento.
-<p align="center">
-  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-06.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Adicionar forma de pagamento" src="como-adicionar-uma-nova-forma-de-pagamento-img-06.png" style="width: 90%;">
+</div>
 

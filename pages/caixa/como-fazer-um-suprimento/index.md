@@ -8,11 +8,11 @@ title: Caixa - Como fazer um suprimento
 
 
 Na **Aba CAIXA** terá o botão **SUPRIMENTO**. Ao **clicar** será visível uma tela.
-<p align="center">
-  <img alt="Suprimento caixa" src="como-fazer-um-suprimento-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Suprimento caixa" src="como-fazer-um-suprimento-img-01.png" style="width: 90%;">
+</div>
 
 **Informe** o **valor do suprimento** e uma observação sobre o suprimento.
-<p align="center">
-  <img alt="Suprimento caixa" src="como-fazer-um-suprimento-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Suprimento caixa" src="como-fazer-um-suprimento-img-02.png" style="width: 90%;">
+</div>

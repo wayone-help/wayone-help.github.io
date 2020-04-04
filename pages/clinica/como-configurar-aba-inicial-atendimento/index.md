@@ -9,16 +9,16 @@ Se tiver dúvidas sobre como acessar a edição de clínica, [clique aqui](/page
 
 Procure na edição da clínica o título de **Configuração de redirecionamento - (Definir Abas)**, o primeiro campo é **Ao iniciar atendimento**, selecione a opção desejada.
 
-<p align="center">
-  <img alt="lista de clínicas" src="/pages/clinica/como-configurar-aba-inicial-atendimento/campo.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="lista de clínicas" src="/pages/clinica/como-configurar-aba-inicial-atendimento/campo.png" style="width: 90%;">
+</div>
 
-<p align="center">
-  <img alt="lista de clínicas" src="/pages/clinica/como-configurar-aba-inicial-atendimento/opcoes.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="lista de clínicas" src="/pages/clinica/como-configurar-aba-inicial-atendimento/opcoes.png" style="width: 90%;">
+</div>
 
 Após concluir, clique no botão **salvar**, no final da página de edição da clínica
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/clinica/como-configurar-aba-inicial-atendimento/salvar_edicao_clinica.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/clinica/como-configurar-aba-inicial-atendimento/salvar_edicao_clinica.png" style="width: 90%;">
+</div>

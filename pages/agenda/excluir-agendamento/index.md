@@ -9,21 +9,21 @@ Excluir um agendamento ira limpar o registro do calendário não sendo possível
 
 Para excluir um agendamento selecione o agendamento clicando sobre ele no calendário.
 
-<p align="center">
-  <img alt="excluir-agendamento-img-1" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-agendamento-img-1" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-1.png" style="width: 90%;">
+</div>
 
 Na tela do agendamento clique sobre o botão **Excluir** no canto superior direito.
 
-<p align="center">
-  <img alt="excluir-agendamento-img-2" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-2.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-agendamento-img-2" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-2.png" style="width: 90%;">
+</div>
 
 Sera exibida a tela de exclusão do agendamento.
 
-<p align="center">
-  <img alt="excluir-agendamento-img-3" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-3.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-agendamento-img-3" src="/pages/agenda/excluir-agendamento/excluir-agendamento-img-3.png" style="width: 90%;">
+</div>
 
 1. Seleção do **Motivo da Exclusão** - selecione o motivo da exclusão.
     - Os motivos existentes são:

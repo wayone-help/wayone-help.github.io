@@ -7,65 +7,65 @@ title: Roteiro - Como editar um roteiro
 
 Para editar um roteiro clique sobre o **ícone lápis** localizado na coluna de ações da tabela.
 
-<p align="center">
-  <img alt="editar-roteiro-img-1" src="editar-roteiro-img-1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-1" src="editar-roteiro-img-1.png" style="width: 90%;">
+</div>
 
 Sera apresentada a tela do roteiro, selecione o plano de tratamento desejado para criar o roteiro no canto superior esquerdo da tela e clique no botão **Exibir**.
 
-<p align="center">
-  <img alt="editar-roteiro-img-2" src="editar-roteiro-img-2.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-2" src="editar-roteiro-img-2.png" style="width: 90%;">
+</div>
 
 Sera apresentada o odontograma do plano de tratamento no lado esquerdo da tela e os dados do roteiro no lado direito da tela. **Os itens de um roteiro são divididos por procedimento**.
 
-<p align="center">
-  <img alt="editar-roteiro-img-3" src="editar-roteiro-img-3.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-3" src="editar-roteiro-img-3.png" style="width: 90%;">
+</div>
 
 Clique sobre o **ícone mais** nos itens do roteiro para visualizar os subitens. **Cada subitem de um roteiro é um procedimento do plano de tratamento**.
 
-<p align="center">
-  <img alt="editar-roteiro-img-4" src="editar-roteiro-img-4.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-4" src="editar-roteiro-img-4.png" style="width: 90%;">
+</div>
 
-<p align="center">
-  <img alt="editar-roteiro-img-5" src="editar-roteiro-img-5.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-5" src="editar-roteiro-img-5.png" style="width: 90%;">
+</div>
 
 E possível reorganizar os subitens do roteiro clicando sobre o **ícone de lista** e arrastando para outro item.
 
-<p align="center">
-  <img alt="editar-roteiro-img-6" src="editar-roteiro-img-6.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-6" src="editar-roteiro-img-6.png" style="width: 90%;">
+</div>
 
-<p align="center">
-  <img alt="editar-roteiro-img-7" src="editar-roteiro-img-7.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-7" src="editar-roteiro-img-7.png" style="width: 90%;">
+</div>
 
 Para remover um item clique sobre o **ícone lixeira**.
 
-<p align="center">
-  <img alt="editar-roteiro-img-9" src="editar-roteiro-img-9.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-9" src="editar-roteiro-img-9.png" style="width: 90%;">
+</div>
 
 Sera solicitada a confirmação para remover.
 
-<p align="center">
-  <img alt="editar-roteiro-img-10" src="editar-roteiro-img-10.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-10" src="editar-roteiro-img-10.png" style="width: 90%;">
+</div>
 
 Para editar um item clique sobre o **ícone lápis** 
 
-<p align="center">
-  <img alt="editar-roteiro-img-11" src="editar-roteiro-img-11.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-11" src="editar-roteiro-img-11.png" style="width: 90%;">
+</div>
 
 Sera apresentada a tela de edição do item selecionado.
 
-<p align="center">
-  <img alt="editar-roteiro-img-12" src="editar-roteiro-img-12.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-12" src="editar-roteiro-img-12.png" style="width: 90%;">
+</div>
 
 1. **Dentistas** - selecione quais dentistas poderão atender a este roteiro - campo **obrigatório**.
 2. **Sala** - selecione a sala.
@@ -83,44 +83,44 @@ Sera apresentada a tela de edição do item selecionado.
 
 Exemplo de preenchimento dos dados de edição:
 
-<p align="center">
-  <img alt="editar-roteiro-img-13" src="editar-roteiro-img-13.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-13" src="editar-roteiro-img-13.png" style="width: 90%;">
+</div>
 
 Ao **salvar** a edição o item ficara com status de **"Não agendado"** e ira liberar a opção de agendamento de consulta.
 **Obs:** Neste caso como não foram selecionado todos os dentes do procedimento "Ajuste 002" os dentes não selecionados se tornaram um novo item de roteiro.
 
-<p align="center">
-  <img alt="editar-roteiro-img-14" src="editar-roteiro-img-14.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-14" src="editar-roteiro-img-14.png" style="width: 90%;">
+</div>
 
 Para agendar uma consulta para este item de roteiro clique no **ícone calendário**
 
-<p align="center">
-  <img alt="editar-roteiro-img-15" src="editar-roteiro-img-15.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-15" src="editar-roteiro-img-15.png" style="width: 90%;">
+</div>
 
 Sera exibida a tela de agendamento de consulta com os horários disponíveis, para gerar nova data e horários clique no botão **Nova Data** no canto inferior direito da tela.
 Para agendar a consulta clique no botão **Agendar** sobre a data e horário desejado.
 
-<p align="center">
-  <img alt="editar-roteiro-img-16" src="editar-roteiro-img-16.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-16" src="editar-roteiro-img-16.png" style="width: 90%;">
+</div>
 
 Sera solicitada a confirmação para agendar clique no botão Sim.
 
-<p align="center">
-  <img alt="editar-roteiro-img-17" src="editar-roteiro-img-17.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-17" src="editar-roteiro-img-17.png" style="width: 90%;">
+</div>
 
 O item do roteiro mudara seu status para **"Agendado para DD/MM/AAAA HH:mm"** e não poderá mais ser editado.
 
-<p align="center">
-  <img alt="editar-roteiro-img-18" src="editar-roteiro-img-18.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-18" src="editar-roteiro-img-18.png" style="width: 90%;">
+</div>
 
 O agendamento do roteiro pode ser visualizado no calendário.
 
-<p align="center">
-  <img alt="editar-roteiro-img-18.1" src="editar-roteiro-img-18.1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-roteiro-img-18.1" src="editar-roteiro-img-18.1.png" style="width: 90%;">
+</div>

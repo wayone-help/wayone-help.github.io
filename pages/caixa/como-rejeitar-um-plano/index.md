@@ -7,22 +7,22 @@ title: Caixa - Como rejeitar um plano
 
 
 Pesquise o paciente através do **Nome**, **CPF** ou **Número do contrato**.
-<p align="center">
-  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-01.png" style="width: 90%;">
+</div>
 
 Pesquisando pelo nome do paciente. Será retornado uma lista referente a pesquisa, selecione o paciente.
-<p align="center">
-  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-02.png" style="width: 90%;">
+</div>
 
 **Clique** no botão **REJEITAR PLANO**
-<p align="center">
-  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-03.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-03.png" style="width: 90%;">
+</div>
 
 Confirme se deseja rejeitar o plano.
-<p align="center">
-  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-04.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Rejeitar plano" src="como-rejeitar-um-plano-img-04.png" style="width: 90%;">
+</div>
 

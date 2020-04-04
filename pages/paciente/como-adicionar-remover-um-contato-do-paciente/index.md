@@ -14,65 +14,77 @@ Se tiver dúvidas sobre como pesquisar por um paciente, [clique aqui](/pages/pac
 #### Adicionando contato
 
 Local que é **listado** e **adicionado** os contatos.
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-01.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-01.png" style="width: 90%;">
+</div>
 
 **clique** no botão **adicionar** para abrir o formulário.
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-02.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-02.png" style="width: 90%;">
+</div>
 
 Formulário para adicionar os contatos telefônicos.
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-03.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-03.png" style="width: 90%;">
+</div>
 
 Selecione o **tipo** de contato: **Fixo**, **Comercial**, **Celular**, **Celular com WhatsApp** 
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-04.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-04.png" style="width: 90%;">
+</div>
 
 Em nosso exemplo foi selecionado o **tipo**: **Celular com WhatsApp**
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-05.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-05.png" style="width: 90%;">
+</div>
 
 Informe o número telefônico e **clique** no botão **ADICIONAR**
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-06.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-06.png" style="width: 90%;">
+</div>
 
 Contato adicionado na lista de contatos.
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-07.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-07.png" style="width: 90%;">
+</div>
 
 O paciente pode ter um ou mais contatos, nesse exemplo, vemos que há dois contatos.
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-08.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-08.png" style="width: 90%;">
+</div>
 
 Para salvar as modificações de cadastro de contato, **clique** no botão **SALVAR**
-<p align="center">
-  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-09.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Adicionando contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-09.png" style="width: 90%;">
+</div>
 
 
 
 #### Removendo contato
 
 Na área de contatos, **clique** no **ícone da lixeira** para remover o contato.
-<p align="center">
-  <img alt="Removendo contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-10.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Removendo contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-10.png" style="width: 90%;">
+</div>
 
 Contato removido da lista.
-<p align="center">
-  <img alt="Removendo contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-11.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Removendo contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-11.png" style="width: 90%;">
+</div>
 
 Para salvar as modificações de cadastro de contato, **clique** no botão **SALVAR**
-<p align="center">
-  <img alt="Removendo contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-12.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Removendo contato no cadastro de paciente" src="como-adicionar-remover-um-contato-do-paciente-img-12.png" style="width: 90%;">
+</div>

@@ -8,7 +8,7 @@ Se tiver dúvidas sobre como pesquisar por um paciente, [clique aqui](/pages/pac
 
 Após identificar na lista de pacientes a que deseja visualizar área do paciente, clique no **ícone** para ser redirecionado.
 
-<p align="center">
-  <img alt="Acessando a área do paciente" src="como-acessar-a-area-do-paciente-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Acessando a área do paciente" src="como-acessar-a-area-do-paciente-img-01.png" style="width: 90%;">
+</div>
 

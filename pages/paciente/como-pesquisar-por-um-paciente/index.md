@@ -13,9 +13,9 @@ Caso tenha dúvidas de como acessar o cadastro de paciente, [clique aqui](/pages
 
 Navegando entre as páginas utilizando as setas localizadas na parte inferior direita da lista
 
-<p align="center">
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-01.png" style="width: 90%;">
+</div>
 
 ### Busca
 
@@ -27,15 +27,15 @@ Na parte superior direita da lista, existe um **botão de lupa**, ao clicar nele
 * **Responsável financeiro**
 * **Número de telefone**
 
-<p align="center">
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-02.png" style="width: 90%;">
+</div>
 
-<p align="center">
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-03.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-03.png" style="width: 90%;">
+</div>
 
 Será mostrado o resultado filtrado, caso queira limpar o filtro, clique no **X** que está na parte superior direita da lista.
-<p align="center">
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-04.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-04.png" style="width: 90%;">
+</div>

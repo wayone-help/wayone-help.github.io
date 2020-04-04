@@ -15,12 +15,12 @@ Se tiver dúvidas sobre as cores das agendas, [clique aqui](/pages/clinica/como-
 
 Procure na edição da clínica o item **Definir cores de agenda por:** e marque a opção desejada.
 
-<p align="center">
-  <img alt="lista de clínicas" src="/pages/clinica/como-configurar-cores-agendamento/definir_cores_agenda.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="lista de clínicas" src="/pages/clinica/como-configurar-cores-agendamento/definir_cores_agenda.png" style="width: 90%;">
+</div>
 
 Após concluir, clique no botão **salvar**, no final da página de edição da clínica
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/clinica/como-configurar-cores-agendamento/salvar_edicao_clinica.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/clinica/como-configurar-cores-agendamento/salvar_edicao_clinica.png" style="width: 90%;">
+</div>

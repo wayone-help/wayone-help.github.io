@@ -8,6 +8,6 @@ title: Dashboard - Alterar Idioma
 A alteração do idioma pode acontecer de qualquer tela, basta clicar no nome do usuário logado,
 que fica no canto superior direito, e depois selecionar o idioma desejado
 
-<p align="center">
-  <img alt="Alterar idioma" src="/pages/dashboard/alterar-idioma/alterar_idioma.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Alterar idioma" src="/pages/dashboard/alterar-idioma/alterar_idioma.png" style="width: 90%;">
+</div>

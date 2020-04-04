@@ -13,30 +13,30 @@ Mas por que chamar os **tipos de agendamento** de **fluxos**? É porque cada tip
 
 Encaminha para a tela de atendimento clínico
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_clinico.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_clinico.png" style="width: 90%;">
+</div>
 
 ### Operacional
 
 Encaminha para a tela de atendimento operacional
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_operacional.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_operacional.png" style="width: 90%;">
+</div>
 
 ### Comercial
 
 Encaminha para a tela do orçamento
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_comercial.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_comercial.png" style="width: 90%;">
+</div>
 
 ### Financeiro
 
 Encaminha para a tela do caixa
 
-<p align="center">
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_financeiro.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_financeiro.png" style="width: 90%;">
+</div>

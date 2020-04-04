@@ -11,15 +11,15 @@ Adicionar um paciente pela agenda é uma forma rápida de registrar um paciente 
 
 Para adicionar um paciente pela agenda primeiro abra um agendamento e clique no ícone do paciente.
 
-<p align="center">
-  <img alt="adicionar-paciente-agenda-img-1" src="/pages/agenda/adicionar-paciente-agenda/adicionar-paciente-agenda-img-1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="adicionar-paciente-agenda-img-1" src="/pages/agenda/adicionar-paciente-agenda/adicionar-paciente-agenda-img-1.png" style="width: 90%;">
+</div>
 
 Sera apresentada a tela de **Cadastro de paciente simplificada**.
 
-<p align="center">
-  <img alt="adicionar-paciente-agenda-img-2" src="/pages/agenda/adicionar-paciente-agenda/adicionar-paciente-agenda-img-2.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="adicionar-paciente-agenda-img-2" src="/pages/agenda/adicionar-paciente-agenda/adicionar-paciente-agenda-img-2.png" style="width: 90%;">
+</div>
 
 1. Informe o **Nome do Paciente**
 2. Selecione o **Gênero**

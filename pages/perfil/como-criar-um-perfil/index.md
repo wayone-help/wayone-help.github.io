@@ -6,39 +6,39 @@ title: Pefil - Como criar um perfil
 ### Definição
 
 Navegue no **menu lateral** e clique sobre **Perfil**
-<p align="center">
-  <img alt="Criando perfil" src="como-criar-um-perfil-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Criando perfil" src="como-criar-um-perfil-img-01.png" style="width: 90%;">
+</div>
 
 Na parte superior da tela, do lado direito, clique no **ícone adicionar** para abrir o formulário.
-<p align="center">
-  <img alt="Criando perfil" src="como-criar-um-perfil-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Criando perfil" src="como-criar-um-perfil-img-02.png" style="width: 90%;">
+</div>
 
 #### Nome
 Defina o **nome** perfil.
-<p align="center">
-  <img alt="Criando perfil" src="como-criar-um-perfil-img-03.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Criando perfil" src="como-criar-um-perfil-img-03.png" style="width: 90%;">
+</div>
 
 #### Tipo
 Defina o **tipo** de perfil.
-<p align="center">
-  <img alt="Criando perfil" src="como-criar-um-perfil-img-04.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Criando perfil" src="como-criar-um-perfil-img-04.png" style="width: 90%;">
+</div>
 
 #### Permissões
 Defina as **permissões** do perfil.
-<p align="center">
-  <img alt="Criando perfil" src="como-criar-um-perfil-img-05.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Criando perfil" src="como-criar-um-perfil-img-05.png" style="width: 90%;">
+</div>
 
 Definindo **Nome**, **Tipo** e **Permissões**
-<p align="center">
-  <img alt="Criando perfil" src="como-criar-um-perfil-img-06.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Criando perfil" src="como-criar-um-perfil-img-06.png" style="width: 90%;">
+</div>
 
 Novo perfil cadastrado.
-<p align="center">
-  <img alt="Criando perfil" src="como-criar-um-perfil-img-07.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Criando perfil" src="como-criar-um-perfil-img-07.png" style="width: 90%;">
+</div>

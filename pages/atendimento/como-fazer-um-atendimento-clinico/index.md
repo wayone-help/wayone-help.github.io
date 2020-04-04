@@ -15,35 +15,35 @@ Para realizar um atendimento, é preciso informar algumas informações.
 
 ### Restrições
 **Clique** sobre a restrição para adicionar no histórico do paciente.
-<p align="center">
-  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-01.png" style="width: 90%;">
+</div>
 
 ### Planos de Tratamento
 * Selecione o plano de tratamento referente ao atendimento.
 * Ao selecionar o plano de tratamento, será possível visualizar os dentes que serão feitos os procedimentos. Ao selecionar o dente, ficará visível o procedimento a ser feito.
 * Quando o procedimento for feito, **clique** sobre no botão **SALVAR PROCEDIMENTOS REALIZADOS**
-<p align="center">
-  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-02.png" style="width: 90%;">
+</div>
 
 ### Evolução da Consulta
 Adicione a evolução da consulta para que o botão **FINALIZAR ATENDIMENTO**
-<p align="center">
-  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-03.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-03.png" style="width: 90%;">
+</div>
 
 Lista da evolução da consulta
-<p align="center">
-  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-04.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-04.png" style="width: 90%;">
+</div>
 
 * Finalizando a consulta.
-<p align="center">
-  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-05.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-05.png" style="width: 90%;">
+</div>
 
 * Confirme se a consulta pode ser finalizada.
-<p align="center">
-  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-06.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Atendimento clínico" src="como-fazer-um-atendimento-clinico-img-06.png" style="width: 90%;">
+</div>

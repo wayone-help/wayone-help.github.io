@@ -7,15 +7,15 @@ title: Procedimento - Como editar um procedimento
 
 Para editar um procedimento clique sobre o **ícone lápis** localizado na coluna de ações da tabela.
 
-<p align="center">
-  <img alt="editar-procedimento-img-1" src="editar-procedimento-img-1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-procedimento-img-1" src="editar-procedimento-img-1.png" style="width: 90%;">
+</div>
 
 Sera apresentada a tela de edição com os dados da procedimento selecionado.
 
-<p align="center">
-  <img alt="editar-procedimento-img-2" src="editar-procedimento-img-2.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="editar-procedimento-img-2" src="editar-procedimento-img-2.png" style="width: 90%;">
+</div>
 
 1. **Nome** - informe o nome do procedimento - campo **obrigatório**.
 2. **Valor de referência** - informe o valor de referência do procedimento - campo **obrigatório**.

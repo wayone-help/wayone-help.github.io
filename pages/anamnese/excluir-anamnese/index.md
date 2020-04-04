@@ -7,21 +7,21 @@ title: Anamnese - Como excluir uma anamnese
 
 Para excluir uma anamnese clique sobre o **ícone mais itens** localizado na coluna de ações da tabela.
 
-<p align="center">
-  <img alt="excluir-anamnese-img-1" src="excluir-anamnese-img-1.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-anamnese-img-1" src="excluir-anamnese-img-1.png" style="width: 90%;">
+</div>
 
 Sera exibido as opções de ações a ser realizadas, clique no item **Remover** para excluir a anamnese.
 
-<p align="center">
-  <img alt="excluir-anamnese-img-2" src="excluir-anamnese-img-2.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-anamnese-img-2" src="excluir-anamnese-img-2.png" style="width: 90%;">
+</div>
 
 Sera solicitada a confirmação para excluir.
 
-<p align="center">
-  <img alt="excluir-anamnese-img-3" src="excluir-anamnese-img-3.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="excluir-anamnese-img-3" src="excluir-anamnese-img-3.png" style="width: 90%;">
+</div>
 
 Clique no botão **Sim** para confirmar a exclusão da anamnese.
 

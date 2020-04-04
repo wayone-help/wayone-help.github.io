@@ -10,12 +10,12 @@ title: Caixa - Onde imprimir comprovante de pagamento
 
 
 **Clique** no botão **COMPROVANTE DE PAGAMENTO**
-<p align="center">
-  <img alt="Imprimir comprovante caixa" src="onde-imprimir-comprovante-de-pagamento-img-01.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Imprimir comprovante caixa" src="onde-imprimir-comprovante-de-pagamento-img-01.png" style="width: 90%;">
+</div>
 
 Confirme se deseja iprimir o comprovante.
-<p align="center">
-  <img alt="Imprimir comprovante caixa" src="onde-imprimir-comprovante-de-pagamento-img-02.png" width="800">
-</p>
+<div class="text-center"> 
+  <img alt="Imprimir comprovante caixa" src="onde-imprimir-comprovante-de-pagamento-img-02.png" style="width: 90%;">
+</div>
 

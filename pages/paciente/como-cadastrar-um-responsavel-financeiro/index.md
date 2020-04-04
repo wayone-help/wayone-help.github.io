@@ -11,41 +11,49 @@ Se tiver dúvidas sobre como pesquisar por um paciente, [clique aqui](/pages/pac
 
 
 No formulário de paciente, clique sobre o **ícone adicionar** para poder abrir a busca de responsável financeiro.
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-01.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-01.png" style="width: 90%;">
+</div>
 
 Onde será possível pesquisar por um responsável financeiro ou adicionar um novo.
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-02.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-02.png" style="width: 90%;">
+</div>
 
 **Clique** sobre o **ícone de adicionar**, será redirecionado para o cadastro de responsável financeiro.
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-03.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-03.png" style="width: 90%;">
+</div>
 
 Formulário de cadastro.
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-04.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-04.png" style="width: 90%;">
+</div>
 
 Ao pesquisar pelo **nome** do responsável financeiro, selecione o desejado.
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-05.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-05.png" style="width: 90%;">
+</div>
 
 Clique sobre o botão **ADICIONAR** para poder fazer o vínculo.
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-06.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-06.png" style="width: 90%;">
+</div>
 
 Responsável financeiro adicionado ao paciente.
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-07.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-07.png" style="width: 90%;">
+</div>
 
 Salve a alteração **clicando** sobre o botão **SALVAR**
-<p align="center">
-  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-08.png" width="800">
-</p>
+
+<div class="text-center"> 
+  <img alt="Cadastrar responsável financeiro" src="como-cadastrar-um-responsavel-financeiro-img-08.png" style="width: 90%;">
+</div>
