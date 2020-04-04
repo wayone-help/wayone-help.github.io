@@ -8,13 +8,13 @@ title: Sala - Como editar uma sala
 Para editar uma sala clique sobre o **ícone lápis** localizado na coluna de ações da tabela.
 
 <div class="text-center"> 
-  <img alt="editar-sala-img-1" src="editar-sala-img-1.png" style="width: 90%;">
+  <img alt="editar-sala-img-1" src="editar-sala-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Sera apresentada a tela de edição com os dados da sala selecionada.
 
 <div class="text-center"> 
-  <img alt="editar-sala-img-2" src="editar-sala-img-2.png" style="width: 90%;">
+  <img alt="editar-sala-img-2" src="editar-sala-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. **Nome** - informe o nome da sala - campo **obrigatório**.

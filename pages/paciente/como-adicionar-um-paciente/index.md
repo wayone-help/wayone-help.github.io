@@ -8,13 +8,13 @@ title: Paciente - Como adicionar um paciente
 Navegue no **menu lateral** e clique sobre **Pacientes**
 
 <div class="text-center"> 
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-01.png" style="width: 90%;">
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Na parte superior da tela, do lado direito, clique no **ícone adicionar** para abrir o formulário.
 
 <div class="text-center"> 
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-02.png" style="width: 90%;">
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 
@@ -26,27 +26,27 @@ Formulário do cadastro de paciente, onde temos algumas informações obrigatór
 * Dados do endereço
 
 <div class="text-center"> 
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-03.png" style="width: 90%;">
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-03.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 <div class="text-center"> 
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-04.png" style="width: 90%;">
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-04.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Cadastrando um novo paciente.
 
 <div class="text-center"> 
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-05.png" style="width: 90%;">
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-05.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Com todos os dados obrigatórios informados, basta clicar no botão **SALVAR**
 
 <div class="text-center"> 
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-06.png" style="width: 90%;">
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-06.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 O novo cadastro na lista de pacientes.
 
 <div class="text-center"> 
-  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-07.png" style="width: 90%;">
+  <img alt="Adicionando paciente" src="como-adicionar-um-paciente-img-07.png" style="width: 90%; margin-bottom: 20px;">
 </div>

@@ -10,7 +10,7 @@ Para adicionar um modelo de documento é necessário entrar na lista de **modelo
 Clique no ícone **+** localizado na parte superior direita da lista
 
 <div class="text-center"> 
-  <img alt="lista de clínicas" src="/pages/modelo-documento/adicionar-modelo/adicionar_novo_modelo.png" style="width: 90%;">
+  <img alt="lista de clínicas" src="/pages/modelo-documento/adicionar-modelo/adicionar_novo_modelo.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Será mostrado na tela os campos para gerar o novo modelo
@@ -26,11 +26,11 @@ Será mostrado na tela os campos para gerar o novo modelo
 - Editor: É aqui que realmente será criado o modelo
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/modelo-documento/adicionar-modelo/campos_modelo.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/modelo-documento/adicionar-modelo/campos_modelo.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Após concluir tudo, clique no botão **salvar**, no final da página
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/modelo-documento/adicionar-modelo/salvar_modelo.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/modelo-documento/adicionar-modelo/salvar_modelo.png" style="width: 90%; margin-bottom: 20px;">
 </div>

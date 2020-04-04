@@ -8,13 +8,13 @@ title: Procedimento - Como adicionar um procedimento
 Para adicionar um procedimento clique sobre o **ícone mais** localizado no canto superior direito da tabela de procedimento
 
 <div class="text-center"> 
-  <img alt="adicionar-procedimento-img-1" src="adicionar-procedimento-img-1.png" style="width: 90%;">
+  <img alt="adicionar-procedimento-img-1" src="adicionar-procedimento-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Sera apresentada a tela de cadastro de um novo procedimento.
 
 <div class="text-center"> 
-  <img alt="adicionar-procedimento-img-2" src="adicionar-procedimento-img-2.png" style="width: 90%;">
+  <img alt="adicionar-procedimento-img-2" src="adicionar-procedimento-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. **Nome** - informe o nome do procedimento - campo **obrigatório**.

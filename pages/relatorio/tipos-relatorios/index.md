@@ -8,7 +8,7 @@ title: Relatório - Tipos de relatórios
 Para acessar os relatórios no menu do sistema selecione **Relatórios**
 
 <div class="text-center"> 
-  <img alt="tipos-relatorios-img-1" src="/pages/relatorio/tipos-relatorios/tipos-relatorios-img-1.png" style="width: 90%;">
+  <img alt="tipos-relatorios-img-1" src="/pages/relatorio/tipos-relatorios/tipos-relatorios-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 **Obs:** Caso este item não apareça no seu menu e porque seu usuário não possuir permissões de acesso a esse modulo.
@@ -16,7 +16,7 @@ Para acessar os relatórios no menu do sistema selecione **Relatórios**
 Sera exibida a tela de relatórios com o primeiro relatório já selecionado.
 
 <div class="text-center"> 
-  <img alt="tipos-relatorios-img-2" src="/pages/relatorio/tipos-relatorios/tipos-relatorios-img-2.png" style="width: 90%;">
+  <img alt="tipos-relatorios-img-2" src="/pages/relatorio/tipos-relatorios/tipos-relatorios-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Os relatórios presentes no sistema são:

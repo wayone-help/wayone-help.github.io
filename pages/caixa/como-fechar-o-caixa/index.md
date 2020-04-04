@@ -14,10 +14,10 @@ Quando acessado a tela de **caixa** e o caixa do dia anterior estiver em aberto,
 **Segunda opção:**
 Na **Aba CAIXA** terá o botão **FECHAR CAIXA**. Ao **clicar** será visível uma tela para confirmar o fechamento.
 <div class="text-center"> 
-  <img alt="Fechar caixa" src="como-fechar-o-caixa-img-01.png" style="width: 90%;">
+  <img alt="Fechar caixa" src="como-fechar-o-caixa-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Confirmar o fechamento do caixa.
 <div class="text-center"> 
-  <img alt="Fechar caixa" src="como-fechar-o-caixa-img-02.png" style="width: 90%;">
+  <img alt="Fechar caixa" src="como-fechar-o-caixa-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>

@@ -13,16 +13,16 @@ Quando acessado a tela de **caixa** e o caixa não estiver aberto, uma tela ser�
 Caso queira, poderá informar um **valor inicial** para caixa, também conhecido com **fundo de troco**.
 
 <div class="text-center"> 
-  <img alt="Abrir caixa" src="como-abrir-o-caixa-img-01.png" style="width: 90%;">
+  <img alt="Abrir caixa" src="como-abrir-o-caixa-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 **Segunda opção:**
 Na **Aba CAIXA** terá o botão **ABRIR CAIXA**. Ao **clicar** será visível uma tela para abrir o caixa.
 <div class="text-center"> 
-  <img alt="Abrir caixa" src="como-abrir-o-caixa-img-02.png" style="width: 90%;">
+  <img alt="Abrir caixa" src="como-abrir-o-caixa-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Informado o **valor inicial** do caixa, também conhecido com **fundo de troco**.
 <div class="text-center"> 
-  <img alt="Abrir caixa" src="como-abrir-o-caixa-img-03.png" style="width: 90%;">
+  <img alt="Abrir caixa" src="como-abrir-o-caixa-img-03.png" style="width: 90%; margin-bottom: 20px;">
 </div>

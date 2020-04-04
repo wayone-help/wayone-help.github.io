@@ -10,7 +10,7 @@ Para adicionar uma tabela de preço é necessário acessar a lista de **tabelas*
 Clique no ícone **+** localizado na parte superior direita da lista
 
 <div class="text-center"> 
-  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco/adicionar_nova_tabela.png" style="width: 90%;">
+  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco/adicionar_nova_tabela.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Será mostrado na tela os campos para criar uma nova tabela
@@ -24,11 +24,11 @@ Será mostrado na tela os campos para criar uma nova tabela
 
 
 <div class="text-center"> 
-  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco/campos_nova_tabela.png" style="width: 90%;">
+  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco/campos_nova_tabela.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Após concluir tudo, clique no botão **salvar**, no final da página
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco/salvar_tabela.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco/salvar_tabela.png" style="width: 90%; margin-bottom: 20px;">
 </div>

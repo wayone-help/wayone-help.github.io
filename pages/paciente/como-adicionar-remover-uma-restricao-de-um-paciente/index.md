@@ -16,14 +16,14 @@ Se tiver dúvidas sobre como pesquisar por um paciente, [clique aqui](/pages/pac
 Lista de todas as restrições possíveis para o paciente.
 
 <div class="text-center"> 
-  <img alt="Adicionando restrição do paciente" src="como-adicionar-remover-uma-restricao-de-um-paciente-img-01.png" style="width: 90%;">
+  <img alt="Adicionando restrição do paciente" src="como-adicionar-remover-uma-restricao-de-um-paciente-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 ***Clique** sobre a **restrição** a ser adicionado ao paciente. Na imagem vemos que foram duas restrições.
 Para salvar as modificações, **clique** no botão **SALVAR**
 
 <div class="text-center"> 
-  <img alt="Adicionando restrição do paciente" src="como-adicionar-remover-uma-restricao-de-um-paciente-img-02.png" style="width: 90%;">
+  <img alt="Adicionando restrição do paciente" src="como-adicionar-remover-uma-restricao-de-um-paciente-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 
@@ -33,5 +33,5 @@ Para salvar as modificações, **clique** no botão **SALVAR**
 Para salvar as modificações, **clique** no botão **SALVAR**
 
 <div class="text-center"> 
-  <img alt="Removendo restrição do paciente" src="como-adicionar-remover-uma-restricao-de-um-paciente-img-03.png" style="width: 90%;">
+  <img alt="Removendo restrição do paciente" src="como-adicionar-remover-uma-restricao-de-um-paciente-img-03.png" style="width: 90%; margin-bottom: 20px;">
 </div>

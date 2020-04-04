@@ -10,11 +10,11 @@ Caso tenha dúvidas de como pesquisar a anamnese de um paciente, [clique aqui](/
 Para responder uma anamnese, encontre-a na lista referente ao paciente, depois clique na opção do ícone de **lápis**. Se passar o mouse em cima do ícone aparecerá um texto escrito **Editar Anamnese**. Clique nele e aparecerá a mesma tela que apareceria se o paciente fosse responder sem o auxílio, por e-mail. 
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/gestao-anamnese/como-responder-uma-anamnese/lista_anamnese_editar.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/gestao-anamnese/como-responder-uma-anamnese/lista_anamnese_editar.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/gestao-anamnese/como-responder-uma-anamnese/edicao_anamnese.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/gestao-anamnese/como-responder-uma-anamnese/edicao_anamnese.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Preencha conforme as informações do paciente, **os campos são salvos de forma automática**. Para voltar à lista de anamneses, clique no texto **Gestão de Anamnese** na parte superior esquerda da tela.

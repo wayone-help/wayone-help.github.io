@@ -8,13 +8,13 @@ title: Tipos de Procedimentos - Como editar um tipo de procedimento
 Para editar uma tipo de procedimento clique sobre o **ícone lápis** localizado na coluna de ações da tabela.
 
 <div class="text-center">
-  <img alt="editar-tipo-img-1" src="editar-tipo-img-1.png" style="width: 90%;">
+  <img alt="editar-tipo-img-1" src="editar-tipo-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Sera apresentada a tela de edição com os dados do tipo de procedimento selecionada.
 
 <div class="text-center">
-  <img alt="editar-tipo-img-2" src="editar-tipo-img-2.png" style="width: 90%;">
+  <img alt="editar-tipo-img-2" src="editar-tipo-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. **Nome** - campo **bloqueado**.

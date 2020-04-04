@@ -14,7 +14,7 @@ Caso tenha dúvidas de como acessar o cadastro de paciente, [clique aqui](/pages
 Navegando entre as páginas utilizando as setas localizadas na parte inferior direita da lista
 
 <div class="text-center"> 
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-01.png" style="width: 90%;">
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 ### Busca
@@ -28,14 +28,14 @@ Na parte superior direita da lista, existe um **botão de lupa**, ao clicar nele
 * **Número de telefone**
 
 <div class="text-center"> 
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-02.png" style="width: 90%;">
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 <div class="text-center"> 
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-03.png" style="width: 90%;">
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-03.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Será mostrado o resultado filtrado, caso queira limpar o filtro, clique no **X** que está na parte superior direita da lista.
 <div class="text-center"> 
-  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-04.png" style="width: 90%;">
+  <img alt="Pesquisa de paciente" src="como-pesquisar-por-um-paciente-img-04.png" style="width: 90%; margin-bottom: 20px;">
 </div>

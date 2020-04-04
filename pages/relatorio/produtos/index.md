@@ -10,13 +10,13 @@ O relatório de produtos apresenta os procedimentos realizados em determinado pe
 Selecione o relatório de **Produtos** clicando sobre o nome dele no menu localizado no lado esquerdo da tela
 
 <div class="text-center"> 
-  <img alt="produtos-img-1" src="/pages/relatorio/produtos/produtos-img-1.png" style="width: 90%;">
+  <img alt="produtos-img-1" src="/pages/relatorio/produtos/produtos-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Será exibido os filtros necessários para a geração do relatório.
 
 <div class="text-center"> 
-  <img alt="produtos-img-2" src="/pages/relatorio/produtos/produtos-img-2.png" style="width: 90%;">
+  <img alt="produtos-img-2" src="/pages/relatorio/produtos/produtos-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. Seleção a **Data Inicial** - filtra pela data inicial informada.

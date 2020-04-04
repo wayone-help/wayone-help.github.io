@@ -10,13 +10,13 @@ O relatório de participação de procedimentos apresenta a porcentagem de cada 
 Selecione o relatório de **Participação de Procedimentos** clicando sobre o nome dele no menu localizado no lado esquerdo da tela
 
 <div class="text-center"> 
-  <img alt="participacao-procedimentos-img-1" src="/pages/relatorio/participacao-procedimentos/participacao-procedimentos-img-1.png" style="width: 90%;">
+  <img alt="participacao-procedimentos-img-1" src="/pages/relatorio/participacao-procedimentos/participacao-procedimentos-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Será exibido os filtros necessários para a geração do relatório.
 
 <div class="text-center"> 
-  <img alt="participacao-procedimentos-img-2" src="/pages/relatorio/participacao-procedimentos/participacao-procedimentos-img-2.png" style="width: 90%;">
+  <img alt="participacao-procedimentos-img-2" src="/pages/relatorio/participacao-procedimentos/participacao-procedimentos-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. Seleção a **Data Inicial** - filtra pela data inicial informada.

@@ -14,7 +14,7 @@ Para abrir a lista de aprovação de desconto, abra o menu lateral esquerdo e cl
 Navegando entre as páginas utilizando as setas localizadas na parte inferior direita da lista
 
 <div class="text-center"> 
-  <img alt="Aprovação de Desconto" src="/pages/aprovacao-desconto/como-pesquisar-um-orcamento/lista_orcamentos.png" style="width: 90%;">
+  <img alt="Aprovação de Desconto" src="/pages/aprovacao-desconto/como-pesquisar-um-orcamento/lista_orcamentos.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 ### Busca
@@ -22,5 +22,5 @@ Navegando entre as páginas utilizando as setas localizadas na parte inferior di
 Na parte superior direita da lista, existe um **botão de lupa**, ao clicar nele será aberto **no lado esquerdo um campo para digitar texto**, digite o nome do paciente e **pressione a tecla enter para iniciar a busca**
 
 <div class="text-center"> 
-  <img alt="Aprovação de Desconto" src="/pages/aprovacao-desconto/como-pesquisar-um-orcamento/lista_orcamentos_filtrar.png" style="width: 90%;">
+  <img alt="Aprovação de Desconto" src="/pages/aprovacao-desconto/como-pesquisar-um-orcamento/lista_orcamentos_filtrar.png" style="width: 90%; margin-bottom: 20px;">
 </div>

@@ -10,7 +10,7 @@ Para editar uma tabela de preço é necessário acessar a lista de **tabelas**, 
 Encontre a tabela que deseja editar na lista e clique no ícone do **lápis**
 
 <div class="text-center">
-  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco/lista_editar.png" style="width: 90%;">
+  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco/lista_editar.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Faça as alterações conforme desejado, se tiver dúvidas [clique aqui](/pages/tabelas-de-preco/como-adicionar-uma-tabela-de-preco).
@@ -18,11 +18,11 @@ Faça as alterações conforme desejado, se tiver dúvidas [clique aqui](/pages/
 **Aqui pode ser alterado o valor dos procedimentos**
 
 <div class="text-center">
-  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco/tabela_edicao.png" style="width: 90%;">
+  <img alt="lista de clínicas" src="/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco/tabela_edicao.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Após concluir tudo, clique no botão **salvar**, no final da página
 
 <div class="text-center">
-  <img alt="Tipos de agendamento" src="/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco/salvar_edicao.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/tabelas-de-preco/como-editar-uma-tabela-de-preco/salvar_edicao.png" style="width: 90%; margin-bottom: 20px;">
 </div>

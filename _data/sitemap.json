@@ -223,10 +223,6 @@
           "url": "/pages/clinica/como-pesquisar-uma-clinica"
         },
         {
-          "page": "Como selecionar uma clínica pela lista",
-          "url": "/pages/clinica/alterando-cor"
-        },
-        {
           "page": "Como editar uma clínica",
           "url": "/pages/clinica/editar-clinica"
         },

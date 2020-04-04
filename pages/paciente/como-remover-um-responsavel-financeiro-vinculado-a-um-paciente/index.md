@@ -13,11 +13,11 @@ Se tiver dúvidas sobre como pesquisar por um paciente, [clique aqui](/pages/pac
 No cadastro do paciente, na lista de responsáveis financeiros, **clique** no botão **remover**
 
 <div class="text-center"> 
-  <img alt="Removendo responsável financeiro" src="como-remover-um-responsavel-financeiro-vinculado-a-um-paciente-img-01.png" style="width: 90%;">
+  <img alt="Removendo responsável financeiro" src="como-remover-um-responsavel-financeiro-vinculado-a-um-paciente-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Para salvar alteração, **clique** no botão **SALVAR**
 
 <div class="text-center"> 
-  <img alt="Removendo responsável financeiro" src="como-remover-um-responsavel-financeiro-vinculado-a-um-paciente-img-02.png" style="width: 90%;">
+  <img alt="Removendo responsável financeiro" src="como-remover-um-responsavel-financeiro-vinculado-a-um-paciente-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>

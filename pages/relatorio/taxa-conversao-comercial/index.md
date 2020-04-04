@@ -10,13 +10,13 @@ O relatório de taxa de conversão apresenta a porcentagem de planos convertidos
 Selecione o relatório de **Taxa de conversão - Comercial** clicando sobre o nome dele no menu localizado no lado esquerdo da tela
 
 <div class="text-center"> 
-  <img alt="taxa-conversao-comercial-img-1" src="/pages/relatorio/taxa-conversao-comercial/taxa-conversao-comercial-img-1.png" style="width: 90%;">
+  <img alt="taxa-conversao-comercial-img-1" src="/pages/relatorio/taxa-conversao-comercial/taxa-conversao-comercial-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Será exibido os filtros necessários para a geração do relatório.
 
 <div class="text-center"> 
-  <img alt="taxa-conversao-comercial-img-2" src="/pages/relatorio/taxa-conversao-comercial/taxa-conversao-comercial-img-2.png" style="width: 90%;">
+  <img alt="taxa-conversao-comercial-img-2" src="/pages/relatorio/taxa-conversao-comercial/taxa-conversao-comercial-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. Seleção do **Agente de Negociação** - filtra pelo usuário selecionado - lista somente usuário com perfil que possuir a opção **"é Comercial"** marcada.

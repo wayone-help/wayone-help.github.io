@@ -9,11 +9,11 @@ title: Caixa - Como excluir uma forma de pagamento
 
 **Clique** sobre o **ícone da lixeira** para remover a forma de pagamento.
 <div class="text-center"> 
-  <img alt="Excluir forma de pagamento" src="como-excluir-uma-forma-de-pagamento-img-01.png" style="width: 90%;">
+  <img alt="Excluir forma de pagamento" src="como-excluir-uma-forma-de-pagamento-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Confirme se deseja remover a forma de pagamento.
 <div class="text-center"> 
-  <img alt="Excluir forma de pagamento" src="como-excluir-uma-forma-de-pagamento-img-02.png" style="width: 90%;">
+  <img alt="Excluir forma de pagamento" src="como-excluir-uma-forma-de-pagamento-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 

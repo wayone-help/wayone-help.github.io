@@ -10,13 +10,13 @@ O relatório de planos de tratamento iniciados apresenta ?
 Selecione o relatório de **Planos de Tratamento Iniciados** clicando sobre o nome dele no menu localizado no lado esquerdo da tela
 
 <div class="text-center"> 
-  <img alt="planos-tratamento-iniciados-img-1" src="/pages/relatorio/planos-tratamento-iniciados/planos-tratamento-iniciados-img-1.png" style="width: 90%;">
+  <img alt="planos-tratamento-iniciados-img-1" src="/pages/relatorio/planos-tratamento-iniciados/planos-tratamento-iniciados-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Será exibido os filtros necessários para a geração do relatório.
 
 <div class="text-center"> 
-  <img alt="planos-tratamento-iniciados-img-2" src="/pages/relatorio/planos-tratamento-iniciados/planos-tratamento-iniciados-img-2.png" style="width: 90%;">
+  <img alt="planos-tratamento-iniciados-img-2" src="/pages/relatorio/planos-tratamento-iniciados/planos-tratamento-iniciados-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. Seleção do **Dentista** - filtra pelo usuário selecionado - lista somente usuário com perfil que possuir a opção **"é Dentista"** marcada.

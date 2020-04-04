@@ -12,11 +12,11 @@ enviando informações referente a pagamentos.
 
 **Clique** no botão **EFETIVAR PAGAMENTO**
 <div class="text-center"> 
-  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-01.png" style="width: 90%;">
+  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-01.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Confirme se deseja efetivar o pagamento.
 <div class="text-center"> 
-  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-02.png" style="width: 90%;">
+  <img alt="Efetivar pagamento caixa" src="como-efetivar-um-pagamento-img-02.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
