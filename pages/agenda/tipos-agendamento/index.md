@@ -14,7 +14,7 @@ Mas por que chamar os **tipos de agendamento** de **fluxos**? É porque cada tip
 Encaminha para a tela de atendimento clínico
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_clinico.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_clinico.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 ### Operacional
@@ -22,7 +22,7 @@ Encaminha para a tela de atendimento clínico
 Encaminha para a tela de atendimento operacional
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_operacional.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_operacional.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 ### Comercial
@@ -30,7 +30,7 @@ Encaminha para a tela de atendimento operacional
 Encaminha para a tela do orçamento
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_comercial.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_comercial.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 ### Financeiro
@@ -38,5 +38,5 @@ Encaminha para a tela do orçamento
 Encaminha para a tela do caixa
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_financeiro.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/agenda/tipos-agendamento/atendimento_financeiro.png" style="width: 90%; margin-bottom: 20px;">
 </div>

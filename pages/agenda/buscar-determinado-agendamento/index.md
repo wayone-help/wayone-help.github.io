@@ -10,13 +10,13 @@ Buscar por um agendamento e a forma mais fácil e rápida de se encontrar um ate
 Para buscar por um agendamento clique sobre o **ícone de lupa** localizado no canto superior do calendário.
 
 <div class="text-center"> 
-  <img alt="buscar-determinado-agendamento-img-1" src="/pages/agenda/buscar-determinado-agendamento/buscar-determinado-agendamento-img-1.png" style="width: 90%;">
+  <img alt="buscar-determinado-agendamento-img-1" src="/pages/agenda/buscar-determinado-agendamento/buscar-determinado-agendamento-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Sera exibida a tela de pesquisa de agendamento.
 
 <div class="text-center"> 
-  <img alt="buscar-determinado-agendamento-img-2" src="/pages/agenda/buscar-determinado-agendamento/buscar-determinado-agendamento-img-2.png" style="width: 90%;">
+  <img alt="buscar-determinado-agendamento-img-2" src="/pages/agenda/buscar-determinado-agendamento/buscar-determinado-agendamento-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 1. Botão **Fechar** - fecha a tela de pesquisa.

@@ -12,17 +12,17 @@ Alternar a visão do calendário serve para visualizar os agendamentos de formas
 Para alternar a visão entre **Dia** e **Semana** clique sobre o menu localizado no canto superior do calendário.
 
 <div class="text-center"> 
-  <img alt="alternar-visao-dia-semana-img-1" src="/pages/agenda/alternar-visao-dia-semana/alternar-visao-dia-semana-img-1.png" style="width: 90%;">
+  <img alt="alternar-visao-dia-semana-img-1" src="/pages/agenda/alternar-visao-dia-semana/alternar-visao-dia-semana-img-1.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Escolha o modo de visualização clicando em um item do menu.
 
 <div class="text-center"> 
-  <img alt="alternar-visao-dia-semana-img-2" src="/pages/agenda/alternar-visao-dia-semana/alternar-visao-dia-semana-img-2.png" style="width: 90%;">
+  <img alt="alternar-visao-dia-semana-img-2" src="/pages/agenda/alternar-visao-dia-semana/alternar-visao-dia-semana-img-2.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 O calendário ira modificar sua visualização de acordo com sua escolha.
 
 <div class="text-center"> 
-  <img alt="alternar-visao-dia-semana-img-3" src="/pages/agenda/alternar-visao-dia-semana/alternar-visao-dia-semana-img-3.png" style="width: 90%;">
+  <img alt="alternar-visao-dia-semana-img-3" src="/pages/agenda/alternar-visao-dia-semana/alternar-visao-dia-semana-img-3.png" style="width: 90%; margin-bottom: 20px;">
 </div>

@@ -8,7 +8,7 @@ title: Dashboard - Atender pelos agendamentos
 Tanto no dashboard quanto no menu lateral é listado dois casos de agendamento, os que estão **aguardando atendimento** (fila de espera) e os que estão **em atendimento**. Estas listas são formadas por todas as agendas que o usuário logado tem acesso.
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/tipos_agendamento.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/tipos_agendamento.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Antes de mostrar como atender é necessário explicar os diferentes tipos de agendamento. Toda agenda pertence a um fluxo, e o agendamento consequentemente pertence ao mesmo fluxo. Existem quatro tipos de fluxo: Clínico, Operacional, Comercial e Financeiro. 
@@ -25,13 +25,13 @@ Uma lista que pode ser formada por agendas dos quatro fluxos. Se a agenda for vi
 Se a agenda for do fluxo clínico ou operacional, é só clicar no botão **atender**, aparecerá assim:
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/agendamento_clinico_operacional.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/agendamento_clinico_operacional.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 Se a agenda for do fluxo comercial ou financeiro, é só clicar no botão **iniciar atendimento**, aparecerá assim:
 
 <div class="text-center"> 
-  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/agendamento_comercial_financeiro.png" style="width: 90%;">
+  <img alt="Tipos de agendamento" src="/pages/dashboard/atender-pelos-agendamentos/agendamento_comercial_financeiro.png" style="width: 90%; margin-bottom: 20px;">
 </div>
 
 
