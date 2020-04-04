@@ -24,7 +24,3 @@ Será exibido os filtros necessários para a geração do relatório.
 3. Botão **Gerar Relatório** - gera o relatório aplicando os filtros.
 
 Após clicar no botão de gerar o relatório sera gerado um **arquivo em formato .pdf** basta clicar sobre ele para visualiza-lo.
-
-<!-- <div class="text-center"> 
-  <img alt="planos-tratamento-cancelados-img-3" src="/pages/relatorio/planos-tratamento-cancelados/planos-tratamento-cancelados-img-3.jpg" width="800" style="border: thin solid #000">
-</div> -->

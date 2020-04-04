@@ -26,5 +26,5 @@ Será exibido os filtros necessários para a geração do relatório.
 Após clicar no botão de gerar o relatório sera gerado um **arquivo em formato .pdf** basta clicar sobre ele para visualiza-lo.
 
 <div class="text-center"> 
-  <img alt="participacao-procedimentos-img-3" src="/pages/relatorio/participacao-procedimentos/participacao-procedimentos-img-3.jpg" width="800" style="border: thin solid #000">
+  <img alt="participacao-procedimentos-img-3" src="/pages/relatorio/participacao-procedimentos/participacao-procedimentos-img-3.jpg" style="width: 800px; border: thin solid #000">
 </div>
