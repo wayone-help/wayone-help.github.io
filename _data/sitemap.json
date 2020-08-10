@@ -185,32 +185,80 @@
           "page": "Tipos de Relatórios",
           "url": "/pages/relatorio/tipos-relatorios"
         },
-        {
-          "page": "Relatório de taxa de conversão (dentista)",
-          "url": "/pages/relatorio/taxa-conversao-dentista"
+        {     
+          "page": "Faltas e Desmarques",
+          "url": "/pages/relatorio/faltas-desmarques"
         },
         {
-          "page": "Relatório de taxa de conversão (comercial)",
-          "url": "/pages/relatorio/taxa-conversao-comercial"
+          "page": "Novos Pacientes",
+          "url": "/pages/relatorio/novos-pacientes"
         },
         {
-          "page": "Relatório de planos de tratamento iniciados",
-          "url": "/pages/relatorio/planos-tratamento-iniciados"
+          "page": "Pacientes Aniversariantes",
+          "url": "/pages/relatorio/pacientes-aniversariantes"
         },
         {
-          "page": "Relatório de planos de tratamento cancelados",
-          "url": "/pages/relatorio/planos-tratamento-cancelados"
-        },
-        {
-          "page": "Relatório de participação de procedimentos",
+          "page": "Participação de procedimentos",
           "url": "/pages/relatorio/participacao-procedimentos"
         },
         {
-          "page": "Relatório de produtos",
+          "page": "Participação de procedimentos (Repetição)",
+          "url": "/pages/relatorio/participacao-procedimentos-repeticao"
+        },
+        {
+          "page": "Planos aprovados sem agendamento",
+          "url": "/pages/relatorio/planos-aprovados-sem-agendamentos"
+        },
+        {
+          "page": "Planos de tratamento (Repetição)",
+          "url": "/pages/relatorio/planos-tratamento-repeticao"
+        },
+        {
+          "page": "Planos de tratamento cancelados",
+          "url": "/pages/relatorio/planos-tratamento-cancelados"
+        },
+        {
+          "page": "Planos de tratamento iniciados",
+          "url": "/pages/relatorio/planos-tratamento-iniciados"
+        },
+        {
+          "page": "Planos de tratamento não aprovados",
+          "url": "/pages/relatorio/planos-nao-aprovados"
+        },
+        {
+          "page": "Produtividade por Dentista",
+          "url": "/pages/relatorio/produtividade-por-dentista"
+        },
+        {
+          "page": "Produto/Serviço Aprovado",
+          "url": "/pages/relatorio/produto-servico-aprovado"
+        },
+        {
+          "page": "Produtos",
           "url": "/pages/relatorio/produtos"
         },
         {
-          "page": "Relatório de vendas por dia",
+          "page": "Recebimentos (efetivado)",
+          "url": "/pages/relatorio/recebimentos-efetivado"
+        },
+        {
+          "page": "Recebimentos (titulo)",
+          "url": "/pages/relatorio/recebimentos-titulo"
+        },
+        {
+          "page": "Situação de procedimentos aprovados",
+          "url": "/pages/relatorio/situacao-procedimentos-aprovados"
+        },
+        {
+          "page": "Taxa conversão - Comercial",
+          "url": "/pages/relatorio/taxa-conversao-comercial"
+        },
+        {
+          "page": "Taxa conversão - Dentista",
+          "url": "/pages/relatorio/taxa-conversao-dentista"
+        },
+        {
+          "page": "Vendas por dia",
           "url": "/pages/relatorio/vendas-por-dia"
         }
       ]
