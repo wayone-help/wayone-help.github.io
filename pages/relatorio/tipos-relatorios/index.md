@@ -27,16 +27,16 @@ Os relatórios presentes no sistema são:
 - [Participação de procedimentos](/pages/relatorio/participacao-procedimentos/)
 - [Participação de procedimentos (Repetição)](/pages/relatorio/participacao-procedimentos-repeticao/)
 - [Planos aprovados sem agendamento](/pages/relatorio/planos-aprovados-sem-agendamentos/)
-- [Planos de tratamento (Repetição)](/pages/relatorio/planos-tratamento-repeticao/) <!-- FAZER -->
+- [Planos de tratamento (Repetição)](/pages/relatorio/planos-tratamento-repeticao/)
 - [Planos de tratamento cancelados](/pages/relatorio/planos-tratamento-cancelados/)
 - [Planos de tratamento iniciados](/pages/relatorio/planos-tratamento-iniciados/)
 - [Planos de tratamento não aprovados](/pages/relatorio/planos-nao-aprovados/)
 - [Produtividade por Dentista](/pages/relatorio/produtividade-por-dentista/)
 - [Produto/Serviço Aprovado](/pages/relatorio/produto-servico-aprovado/)
 - [Produtos](/pages/relatorio/produtos/)
-- [Recebimentos (efetivado)](/pages/relatorio/recebimentos-efetivado/) <!-- FAZER -->
-- [Recebimentos (titulo)](/pages/relatorio/recebimentos-titulo/) <!-- FAZER -->
-- [Situação de procedimentos aprovados](/pages/relatorio/situacao-procedimentos-aprovados/) <!-- FAZER -->
+- [Recebimentos (efetivado)](/pages/relatorio/recebimentos-efetivado/)
+- [Recebimentos (titulo)](/pages/relatorio/recebimentos-titulo/)
+- [Situação de procedimentos aprovados](/pages/relatorio/situacao-procedimentos-aprovados/)
 - [Taxa conversão - Comercial](/pages/relatorio/taxa-conversao-comercial/)
 - [Taxa conversão - Dentista](/pages/relatorio/taxa-conversao-dentista/)
 - [Vendas por dia](/pages/relatorio/vendas-por-dia/)

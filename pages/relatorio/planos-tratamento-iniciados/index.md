@@ -5,7 +5,7 @@ title: Relatórios - Planos de Tratamento Iniciados
 
 ### Definição
 
-O relatório de planos de tratamento iniciados apresenta ?
+O relatório de planos de tratamento iniciados apresenta a lista de planos aprovados que começaram a ter os procedimentos executados.
 
 Selecione o relatório de **Planos de Tratamento Iniciados** clicando sobre o nome dele no menu localizado no lado esquerdo da tela
 
